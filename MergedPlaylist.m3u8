@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-08-09T17:54:50.013397Z
+# Last forced update: 2025-08-09T18:30:08.588494Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -8265,63 +8265,75 @@ https://tvpass.org/live/tnt-sports-1/hd
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Roman Dolidze V Anthony Hernandez (08/09 5:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="PPV",Ufc Fight Night: Roman Dolidze V Anthony Hernandez (08/09 5:10 Pm Et) Sd
 https://tvpass.org/live/tnt-sports-1/sd
 
+#EXTGRP:PPVLand - Baseball Action HD
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Houston Astros vs. New York Yankees
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=2Fi9JdW-kr-i5stOfL3A_g&expires=1754807117&t=1754763917
+
 #EXTGRP:PPVLand - Global Football Streams
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Manchester United vs. Arsenal
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZTZmJmZ2kTZxQjYtADN1IWL0UjY00iYyUGZtIDNxQWYhFDZ/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=4C6L1Wr8fG4h-dHAuPd2fA&expires=1754807378&t=1754764178
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=0J6KBWhC7IAGMGbqxYvS9Q&expires=1754803071&t=1754759871
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=jZfsjFyeUM8NRA_ReJniBg&expires=1754807439&t=1754764239
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=W-dARwyEzYJhfrkXWLSZmw&expires=1754803041&t=1754759841
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​‌​​​​​​​​‌​​​‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjljZ1MWOkRWN4IjZtcTM5gTL3ADZ00SYjNTOtQmM5M2NyAzM/master.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​‌​​‌‌‌​‌​‌​​​‌​‌‌​‌‌​‌‌​​​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhBTOlVzNyETY1IDNtQGZllTLlRTZ00iZzUDOtQDMxIGNiJDZ/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=jk7dNutDFhsDxrOlMVoL4w&expires=1754807421&t=1754764221
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjNmMhFTYzQmZ2I2YtkTNwIWLmdjY00yNhRTNtAzNldDZyYmM/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkFmM0MDZlNmM3EzYtUmN5IWL3ETZ00CN1UWOtUjM4YDNxI2M/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=XkDQVDDv7YwEMQpNIVncMQ&expires=1754803060&t=1754759860
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwQ2M3ITOxEDNiRDMtUjZiFWLiF2N00CZ5gTZtYmNyUGO0IGO/master.m3u8
 
 #EXTGRP:PPVLand - MMA & Fight Nights
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",OKTAGON 74 (English)
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGI5ZDU0ZmZiMzRlLThkNGEtYjcyNC02NDRhLTU0OTYxYzIx/master.m3u8?md5=NaYrfek3oUL0jFjP0s12Nw&expires=1754802922&t=1754759722
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4IWOkVDNmZmYzQTZtgDZ0EWLidjM00iN0QTYtUDN5YTMjJTM/master.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",OKTAGON 74 (German)
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiF2MmhDN4YDO3ETYtYzM3kTLidDN00CNwE2MtEjZ0UGN1MDM/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmEzZjg0ODY4NzFhLTYzNzktYjc0NC00MGEzLTFmNGU0NTMw/master.m3u8?md5=Ch8TXuYMQaTpV80a9Df4vQ&expires=1754807280&t=1754764080
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",Pro Motocross: Ironman
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4Q2MxgzNygTZkFmZtAjM2EWLwAjN00iY2kjZtYWZ1kDN2QzN/master.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",UFC Fight Pass: Dolidze vs. Hernandez
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDk1MTdjN2I0YTNkLTdkZmItYjJiNC00NzgzLTQ2MGQzOGYy/master.m3u8?md5=ihpmHd-uIMJuPA2HVg6QnQ&expires=1754807299&t=1754764099
 
 #EXTGRP:PPVLand - Wrestling Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=yHNxRifNbeE0dqIs50hU7g&expires=1754803024&t=1754759824
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=pdjYURKBy0pTryd-K6I_PA&expires=1754807388&t=1754764188
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
@@ -10696,96 +10708,84 @@ https://jmp2.uk/sam-US270000298.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=ZCKZrmvzjlWijWtWodJ6T9iv1j4y7AZ6TQSI4LQpaLo&e=1754770821
+https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=RF51QHo2KRo_ynoLJ6ISZoxOUlpxFwpj31R8Yu-gF7s&e=1754775063
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Boston Red Sox vs. San Diego Padres Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=kGCzDqzarLaMkFW_UapvEcHXT93FPBnncvDBzJ6yj_o&e=1754770741
+https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=MtOopeb24QkwOajxncRhrtUTu750JhPsFvtT9wmfmxU&e=1754775091
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Chicago Cubs vs. St. Louis Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/fskjanach24.m3u8?st=W3jJTk3oSYfNmiSdF7EGS_N1KKSzDQBImFi2Inpcm1k&e=1754770816
+https://eastcaster.pro/hls/fskjanach24.m3u8?st=0t-rZiUj9q_PbN2TNob3KBQufiqJhHz8TdG-tGkAegc&e=1754775040
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cincinnati Reds vs. Pittsburgh Pirates Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=XG_cUz_hBtS_xBCHP6-kvPFxcjx1f-cx3IHjjbLDsZU&e=1754770734
+https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=xtGsY_Wl0U2vmI2yGRfEq18c9qxlmBJf6rcx76mBdQ0&e=1754775034
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cleveland Guardians vs. Chicago White Sox Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=iygcOSJSeylv6bwC_6f_BvVnXX3mpdpD4fxmFSoTY3o&e=1754770788
+https://eastcaster.pro/hls/ojzkajnach21.m3u8?st=1tlmyZh_FjqeXxhmagz2Fu_4Nbs5R3oBMURYO6zZWMQ&e=1754775014
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Colorado Rockies vs. Arizona Diamondbacks Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=uFiCQCncMEFcN4-oDkXuAU_qdb8_A3-f0--JlNdP_YI&e=1754775083
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Houston Astros vs. New York Yankees Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=0bQI6Y-bkz5I60W-8YsNJwHVTie8hOOrUqyhvhYIUcE&e=1754770776
+https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=obi9P5oVK22TjmC-nvfbUMYyHXP9_e9R5pQij5ulEZQ&e=1754775045
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Kansas City Royals vs. Minnesota Twins Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jnzkdzjfanch23.m3u8?st=735wjH8K_qeFMEXtV9GdU6sMaQYFhYkoM4uZNq4f99U&e=1754770722
+https://edge1caster.pro/hls/jnzkdzjfanch23.m3u8?st=3GWLeDDN5QNPFfl-sNXHOLZ78VDgevQydj4tKP3F264&e=1754775078
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Angels vs. Detroit Tigers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/Czajafjihafch18.m3u8?st=MdLbRFi0Zx8c-EQ93gRUESaK28sT5qVYo35gSOm3YRk&e=1754770808
+https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=0DLaLsryyMfGe4ebSG7hrEtg3ehWFRZRAVqGWh2pBfw&e=1754775117
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Miami Marlins vs. Atlanta Braves Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/dazhfiach15.m3u8?st=Dd3MZBv4fA4j2wywudzsm_MffVmcmQ5VpQdIjXCvY9s&e=1754770765
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Miami Marlins vs. Atlanta Braves Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/dazhfiach15.m3u8?st=mhcZz1vQA2lEEI4UnFUkfC_W-EFw_WBZdt9Epsaq51I&e=1754770780
+https://edge1caster.pro/hls/dazhfiach15.m3u8?st=b6YaOEfCYgw-8hRbMkuags4o7Uk7QdGm7Z4J8EoC34c&e=1754775002
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",New York Mets vs. Milwaukee Brewers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=weYp1a8ZkMq8cCaoPkKKh3yy1uEBIByW3WNnVW4GtK0&e=1754770810
+https://eastcaster.pro/hls/ijfnakfidch22.m3u8?st=tvQXXCBytaZgRsVPooMycbdYlme1RKVld7iTnZvyCgk&e=1754775106
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Philadelphia Phillies vs. Texas Rangers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/kjhfzua25.m3u8?st=MSI4JH00fa-caqwucdrDh5gnl6xWemYJYiHaXpEq_18&e=1754770785
+https://edge1caster.pro/hls/kjhfzua25.m3u8?st=CcHSlQ5Th-KMdgnqjwI_fHIfnjBcjAya5fhRqMK8E8M&e=1754775027
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Tampa Bay Rays vs. Seattle Mariners Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=pr4BWuN2Gf33dedO593VuA5r7L4N0MfAzslXDgh8Chw&e=1754770758
+https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=JMNqY7lG1xoWSHpJ3ugm0Gx7VSWxK7ThInQtc0-B2Ik&e=1754775057
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Toronto Blue Jays vs. Los Angeles Dodgers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=8-CQjfAEbL0N1ZtQJj7kM96ETjs4Yc7QJUiBZnsu4Uc&e=1754770829
+https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=6ya8PYRVnMXQJP_hKYkcTdYuYSsNyuo3-gbGPdUh29M&e=1754775111
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Washington Nationals vs. San Francisco Giants Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=qz6gSALVOI_WCwukOfXhisbggqaRslW7wXtB6bt2kcc&e=1754770727
+https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=C8QadqcNcxXxuPd96DukVXgMTQclyttbigKrd3h7_xs&e=1754775071
 
 #EXTGRP:StreamEast - MMA
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Dolidze vs. Hernandez Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://nextcast.click/hls/HDGQ21/index.m3u8?st=HbljUCLZ-LH7Lnu7nJv26A&e=1754770739
-
-#EXTGRP:StreamEast - Soccer
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Newcastle United vs. Atlético Madrid Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/24SDAZFcsqnj24.m3u8?st=ZE27LTA8A5xWWH1TaotB6nviINStrdMtRc9Q2DHeJTI&e=1754770772
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Palermo vs. Manchester City Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/377qj1h2727.m3u8?st=rGrmJ2HEszzDxPLM8OSD6-wz4PMucpiF2zxjCdxRB_Y&e=1754770761
+https://nextcast.click/hls/HDGQ21/index.m3u8?st=rWa4BMnnliF9HHtOkNql4w&e=1754775024
 
 #EXTGRP:StreamedSU - American Football
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTtc6kiETcQAExAoQR-XyMhNiA4RjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Chicago Bears vs Miami Dolphins (English - HD)
@@ -11344,16 +11344,11 @@ https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=IlaCD-2zAtUxFDc9tR
 https://v16.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=zPbFV7GRxDCqMhampCEreA&expires=1754782335&user_id=Wkc5aVgzSHRpSGw0ZW9NSk1uRHg3a2VnY25Tb1FoSTcyV0phRDhPUQ==
 
 #EXTGRP:Tims247
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01k2530vpj94c3v3fwtj.jpg",Arsenal vs. Athletic Club (MAIN)
-#EXTVLCOPT:http-origin=https://bluecracken.site
-#EXTVLCOPT:http-referrer=https://bluecracken.site/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3d2a85376e52a44aa73edee0bf6efec7.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjNkMmE4NTM3NmU1MmE0NGFhNzNlZGVlMGJmNmVmZWM3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2MjAzMiwiZXhwIjoxNzU0NzcyODMyfQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://static.sportytrader.com/betting-tip-thumbnail/prod/281933.webp",Aston Villa vs Marseille (MAIN)
 #EXTVLCOPT:http-origin=https://bluecracken.site
 #EXTVLCOPT:http-referrer=https://bluecracken.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/18bcfcd2c9d26aca7bcb2254033dd964.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjE4YmNmY2QyYzlkMjZhY2E3YmNiMjI1NDAzM2RkOTY0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2MjAzMiwiZXhwIjoxNzU0NzcyODMyfQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/18bcfcd2c9d26aca7bcb2254033dd964.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjE4YmNmY2QyYzlkMjZhY2E3YmNiMjI1NDAzM2RkOTY0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2NDQwNywiZXhwIjoxNzU0Nzc1MjA3fQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg",Big Brother 27: Camera Feeds (AD-FREE) (FEED 1)
 #EXTVLCOPT:http-origin=https://timstreams.site
 #EXTVLCOPT:http-referrer=https://timstreams.site/
@@ -11383,12 +11378,22 @@ https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535928-1/playlist.m3u8
 #EXTVLCOPT:http-origin=https://bluecracken.site
 #EXTVLCOPT:http-referrer=https://bluecracken.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/61059366609cae0ca86ebb2033887d90.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjYxMDU5MzY2NjA5Y2FlMGNhODZlYmIyMDMzODg3ZDkwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2MjAzMiwiZXhwIjoxNzU0NzcyODMyfQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/61059366609cae0ca86ebb2033887d90.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjYxMDU5MzY2NjA5Y2FlMGNhODZlYmIyMDMzODg3ZDkwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2NDQwNywiZXhwIjoxNzU0Nzc1MjA3fQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://oktagonmma.com/_next/image/?url=https%3A%2F%2Fassets.oktagonmma.com%2FEVENT_COVER_IMAGE%2Fe70c8311-1a90-46f5-a304-841f788af9ca%2Fen.1752766731517.jpg&w=1920&q=75",OKTAGON 74 (Live Stream)
 #EXTVLCOPT:http-origin=https://bluecracken.site
 #EXTVLCOPT:http-referrer=https://bluecracken.site/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/158713fc7fc40c20acb2752ad5a71605.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjE1ODcxM2ZjN2ZjNDBjMjBhY2IyNzUyYWQ1YTcxNjA1IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2MjAzMiwiZXhwIjoxNzU0NzcyODMyfQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/158713fc7fc40c20acb2752ad5a71605.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjE1ODcxM2ZjN2ZjNDBjMjBhY2IyNzUyYWQ1YTcxNjA1IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2NDQwNywiZXhwIjoxNzU0Nzc1MjA3fQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://image.discovery.indazn.com/ca/v3/ca/none/eizcjoovjvenzyfavi45h1fs3_image-header_pUs_1754484087000/fill/center/top/none/85/1920/1084/webp/image",Palermo vs. Manchester City (Live Stream)
+#EXTVLCOPT:http-origin=https://bluecracken.site
+#EXTVLCOPT:http-referrer=https://bluecracken.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9861cd7bb19378810f74446cca40feaf.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijk4NjFjZDdiYjE5Mzc4ODEwZjc0NDQ2Y2NhNDBmZWFmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2NDQwNywiZXhwIjoxNzU0Nzc1MjA3fQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/W6MA1hW-08162202-b7f0eis9iks4elx1.png",WOW FC 21 (Live Stream)
+#EXTVLCOPT:http-origin=https://bluecracken.site
+#EXTVLCOPT:http-referrer=https://bluecracken.site/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/87913ccf8a133eddd58f543861140d41.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijg3OTEzY2NmOGExMzNlZGRkNThmNTQzODYxMTQwZDQxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDc2NDQwNywiZXhwIjoxNzU0Nzc1MjA3fQ.Z0xtYXN3QFQ0YXJhX3JAdE9ickBjVVdyb0NP
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/pQpb4BualR6eug==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjdAAQ==" group-title="TubiTV",A&E Crime 360
