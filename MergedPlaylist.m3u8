@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-08-09T15:50:56.321504Z
+# Last forced update: 2025-08-09T16:14:01.089824Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -3290,6 +3290,70 @@ https://v2.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8?token=mHelM3h5-Vi9kGxY4F
 https://v3.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8?token=D8hhFBa14oN_9EWqtcsXmQ&expires=1754775324&user_id=dFZiVTFyaTR0ck15UHFzbDZpZnFWMzlDOXkxMlU5VERoRnZXZFg1Uw==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants - 8/9/25, 8:06:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Washington Nationals @ San Francisco Giants - 8/9/25, 8:06:00 PM UTC
 https://v5.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8?token=V2Yd4gf9UyzgJazbKqrMJg&expires=1754775319&user_id=dFZiVTFyaTR0ck15UHFzbDZpZnFWMzlDOXkxMlU5VERoRnZXZFg1Uw==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ San Diego Padres (08/09 8:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ San Diego Padres (08/09 8:41 Pm Et) Hd
+https://tvpass.org/live/mlb-02/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ San Diego Padres (08/09 8:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ San Diego Padres (08/09 8:41 Pm Et) Sd
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ St. Louis Cardinals (08/09 7:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ St. Louis Cardinals (08/09 7:16 Pm Et) Hd
+https://tvpass.org/live/mlb-08/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ St. Louis Cardinals (08/09 7:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ St. Louis Cardinals (08/09 7:16 Pm Et) Sd
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Pittsburgh Pirates (08/09 6:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Pittsburgh Pirates (08/09 6:41 Pm Et) Hd
+https://tvpass.org/live/mlb-26/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Pittsburgh Pirates (08/09 6:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Pittsburgh Pirates (08/09 6:41 Pm Et) Sd
+https://tvpass.org/live/mlb-26/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Chicago White Sox (08/09 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Chicago White Sox (08/09 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Chicago White Sox (08/09 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Chicago White Sox (08/09 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Arizona Diamondbacks (08/09 8:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Arizona Diamondbacks (08/09 8:11 Pm Et) Hd
+https://tvpass.org/live/mlb-09/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Arizona Diamondbacks (08/09 8:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Arizona Diamondbacks (08/09 8:11 Pm Et) Sd
+https://tvpass.org/live/mlb-09/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ New York Yankees (08/09 2:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Houston Astros @ New York Yankees (08/09 2:06 Pm Et) Hd
+https://tvpass.org/live/mlb-15/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ New York Yankees (08/09 2:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Houston Astros @ New York Yankees (08/09 2:06 Pm Et) Sd
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Minnesota Twins (08/09 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Minnesota Twins (08/09 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-20/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Minnesota Twins (08/09 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Minnesota Twins (08/09 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Detroit Tigers (08/09 6:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Detroit Tigers (08/09 6:11 Pm Et) Hd
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Detroit Tigers (08/09 6:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Detroit Tigers (08/09 6:11 Pm Et) Sd
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/09 1:15 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/09 1:15 Pm Et) Hd
+https://tvpass.org/live/mlb-28/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/09 1:15 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/09 1:15 Pm Et) Sd
+https://tvpass.org/live/mlb-28/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/09 7:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/09 7:16 Pm Et) Hd
+https://tvpass.org/live/mlb-28/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/09 7:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/09 7:16 Pm Et) Sd
+https://tvpass.org/live/mlb-28/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Milwaukee Brewers (08/09 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ Milwaukee Brewers (08/09 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-16/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Milwaukee Brewers (08/09 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ Milwaukee Brewers (08/09 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Baltimore Orioles (08/09 7:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Baltimore Orioles (08/09 7:06 Pm Et) Hd
+https://tvpass.org/live/mlb-17/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Baltimore Orioles (08/09 7:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Baltimore Orioles (08/09 7:06 Pm Et) Sd
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Texas Rangers (08/09 7:16 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ Texas Rangers (08/09 7:16 Pm Et) Hd
+https://tvpass.org/live/mlb-13/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Texas Rangers (08/09 7:16 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ Texas Rangers (08/09 7:16 Pm Et) Sd
+https://tvpass.org/live/mlb-13/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Seattle Mariners (08/09 9:40 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Seattle Mariners (08/09 9:40 Pm Et) Hd
+https://tvpass.org/live/mlb-10/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Seattle Mariners (08/09 9:40 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Seattle Mariners (08/09 9:40 Pm Et) Sd
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (08/09 9:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Los Angeles Dodgers (08/09 9:11 Pm Et) Hd
+https://tvpass.org/live/mlb-14/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (08/09 9:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Los Angeles Dodgers (08/09 9:11 Pm Et) Sd
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants (08/09 4:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ San Francisco Giants (08/09 4:06 Pm Et) Hd
+https://tvpass.org/live/mlb-27/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants (08/09 4:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ San Francisco Giants (08/09 4:06 Pm Et) Sd
+https://tvpass.org/live/mlb-27/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
@@ -4842,6 +4906,40 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 #EXTINF:-1  tvg-id="YES.Network.us" tvg-logo="http://lonewolftvpr.com/logos/yes.png" group-title="Mystique USA" radio="false",Yes Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
+
+#EXTGRP:NFL
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dallas Cowboys @ Los Angeles Rams (08/09 7:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Dallas Cowboys @ Los Angeles Rams (08/09 7:00 Pm Et) Hd
+https://tvpass.org/live/NFL05/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dallas Cowboys @ Los Angeles Rams (08/09 7:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Dallas Cowboys @ Los Angeles Rams (08/09 7:00 Pm Et) Sd
+https://tvpass.org/live/NFL05/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Denver Broncos @ San Francisco 49Ers (08/09 8:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Denver Broncos @ San Francisco 49Ers (08/09 8:30 Pm Et) Hd
+https://tvpass.org/live/NFL10/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Denver Broncos @ San Francisco 49Ers (08/09 8:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Denver Broncos @ San Francisco 49Ers (08/09 8:30 Pm Et) Sd
+https://tvpass.org/live/NFL10/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans @ Minnesota Vikings (08/09 4:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Houston Texans @ Minnesota Vikings (08/09 4:00 Pm Et) Hd
+https://tvpass.org/live/NFL04/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans @ Minnesota Vikings (08/09 4:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Houston Texans @ Minnesota Vikings (08/09 4:00 Pm Et) Sd
+https://tvpass.org/live/NFL04/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs @ Arizona Cardinals (08/09 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Kansas City Chiefs @ Arizona Cardinals (08/09 8:00 Pm Et) Hd
+https://tvpass.org/live/NFL08/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Kansas City Chiefs @ Arizona Cardinals (08/09 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Kansas City Chiefs @ Arizona Cardinals (08/09 8:00 Pm Et) Sd
+https://tvpass.org/live/NFL08/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants @ Buffalo Bills (08/09 1:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New York Giants @ Buffalo Bills (08/09 1:00 Pm Et) Hd
+https://tvpass.org/live/NFL03/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Giants @ Buffalo Bills (08/09 1:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New York Giants @ Buffalo Bills (08/09 1:00 Pm Et) Sd
+https://tvpass.org/live/NFL03/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets @ Green Bay Packers (08/09 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New York Jets @ Green Bay Packers (08/09 8:00 Pm Et) Hd
+https://tvpass.org/live/NFL09/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New York Jets @ Green Bay Packers (08/09 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New York Jets @ Green Bay Packers (08/09 8:00 Pm Et) Sd
+https://tvpass.org/live/NFL09/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers @ Jacksonville Jaguars (08/09 7:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Pittsburgh Steelers @ Jacksonville Jaguars (08/09 7:00 Pm Et) Hd
+https://tvpass.org/live/NFL06/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Pittsburgh Steelers @ Jacksonville Jaguars (08/09 7:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Pittsburgh Steelers @ Jacksonville Jaguars (08/09 7:00 Pm Et) Sd
+https://tvpass.org/live/NFL06/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tennessee Titans @ Tampa Bay Buccaneers (08/09 7:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Tennessee Titans @ Tampa Bay Buccaneers (08/09 7:30 Pm Et) Hd
+https://tvpass.org/live/NFL07/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Tennessee Titans @ Tampa Bay Buccaneers (08/09 7:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Tennessee Titans @ Tampa Bay Buccaneers (08/09 7:30 Pm Et) Sd
+https://tvpass.org/live/NFL07/sd
 
 #EXTGRP:PBS
 #EXTINF:-1  tvg-name="Alaska Public Media" tvg-id="PBS.Kids.us" tvg-logo="https://image.pbs.org/stations/kakm-color-single-brand-logo-CKvfnQs.png" group-title="PBS",Alaska Public Media
@@ -8130,64 +8228,63 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 https://v8.thetvapp.to/hls/tnt-sports-1/tracks-v1a1/mono.m3u8?token=2E9Yr7Zc35JPk4YuQO6eWg&expires=1754775532&user_id=dFZiVTFyaTR0ck15UHFzbDZpZnFWMzlDOXkxMlU5VERoRnZXZFg1Uw==
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night: Roman Dolidze v Anthony Hernandez - 8/9/25, 9:10:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV",UFC Fight Night: Roman Dolidze v Anthony Hernandez - 8/9/25, 9:10:00 PM UTC
 https://v8.thetvapp.to/hls/tnt-sports-1/tracks-v2a1/mono.m3u8?token=h0vu8FKEnR1MW0da9qkcUQ&expires=1754775527&user_id=dFZiVTFyaTR0ck15UHFzbDZpZnFWMzlDOXkxMlU5VERoRnZXZFg1Uw==
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Roman Dolidze V Anthony Hernandez (08/09 5:10 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="PPV",Ufc Fight Night: Roman Dolidze V Anthony Hernandez (08/09 5:10 Pm Et) Hd
+https://tvpass.org/live/tnt-sports-1/hd
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ufc Fight Night: Roman Dolidze V Anthony Hernandez (08/09 5:10 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="PPV",Ufc Fight Night: Roman Dolidze V Anthony Hernandez (08/09 5:10 Pm Et) Sd
+https://tvpass.org/live/tnt-sports-1/sd
 
 #EXTGRP:PPVLand - Global Football Streams
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Manchester United vs Fiorentina
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwY2MxM2N0cjMlNzYtQGN3gTL0IWZ00SN1ETMtgjZ0ImM2QGN/master.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Manchester United vs. Arsenal
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=A8L1up0g-Mq-AMGbDDDl7A&expires=1754795960&t=1754752760
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=AiCuSp_9zD8ODvTnKWjR_A&expires=1754799818&t=1754756618
 
 #EXTGRP:PPVLand - Live Channels 24/7
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxMTNwEmZwIzM4IzNtkzNjFWLwYTY00iM1AzNtYGNzQGO2EGN/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=gZk3H-6wntaQCIltJKePJg&expires=1754799876&t=1754756676
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=mxGWpgAxGOme_yT00aHQgg&expires=1754795992&t=1754752792
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​​​​‌‌​​​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=eHfEiuF6BzLkaj8j0PC8yg&expires=1754799846&t=1754756646
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​‌​​​​‌​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=O7OLVwGO81HhBeiSzuAeRg&expires=1754796001&t=1754752801
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=VD2_2Wvn_lPL_G5m-4WIVQ&expires=1754799856&t=1754756656
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkFmM0MDZlNmM3EzYtUmN5IWL3ETZ00CN1UWOtUjM4YDNxI2M/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=ZzeR5RNmWz7Wjr-Z2nV2vg&expires=1754799837&t=1754756637
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwQ2M3ITOxEDNiRDMtUjZiFWLiF2N00CZ5gTZtYmNyUGO0IGO/master.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",Comedy Central
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjQzZmQzMDdhYTMwLWRiZjktNjU3NC1kMmY4LWE0NjVmZjRh/master.m3u8?md5=WDv8VWfPM9jQUuRdeghaUg&expires=1754796030&t=1754752830
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=Nzxr8V0OLbhc_rKTc1oKwQ&expires=1754799866&t=1754756666
 
 #EXTGRP:PPVLand - MMA & Fight Nights
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",Pro Motocross: Ironman
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",OKTAGON 74 (English)
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGQzMTg3MjhlZGFmLTAyNmEtMDA2NC1iNjlmLWZlNTk0NjQ3/master.m3u8?md5=ZP7cTlDezx3HwvfuUwF7Tw&expires=1754795872&t=1754752672
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGI5ZDU0ZmZiMzRlLThkNGEtYjcyNC02NDRhLTU0OTYxYzIx/master.m3u8?md5=kE4D7UXLzdGjn0N9VifITA&expires=1754799715&t=1754756515
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",OKTAGON 74 (German)
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiF2MmhDN4YDO3ETYtYzM3kTLidDN00CNwE2MtEjZ0UGN1MDM/master.m3u8
 
 #EXTGRP:PPVLand - Wrestling Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=x9kHYDYTS4oJat7MY96N3g&expires=1754795971&t=1754752771
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=klWjXPCmr5qxPUmFpw8TbA&expires=1754799827&t=1754756627
 
 #EXTGRP:RokuTV
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
