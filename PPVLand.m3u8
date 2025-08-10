@@ -1,36 +1,31 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Tampa Bay Rays vs. Seattle Mariners
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Manchester United vs. Arsenal
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L4UjZykjMzQ2MlNTNtkjN4IWLzUmN00CZ2IjZtkjNllzMyQWY/master.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing.png" group-title="PPVLand - MMA & Fight Nights",UFC Fight Pass: Dolidze vs. Hernandez
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDk1MTdjN2I0YTNkLTdkZmItYjJiNC00NzgzLTQ2MGQzOGYy/master.m3u8?md5=SKkN3DuDJLejYSKx5W2gHg&expires=1754840733&t=1754797533
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=4b7kX89GTABT7-kCNlXiDQ&expires=1754844210&t=1754801010
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=Y3zkmI1r0QF73lWPg2BJkA&expires=1754840825&t=1754797625
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=OIdv9VUG91WSjzPsmUS-ng&expires=1754844221&t=1754801021
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=7VNvoeenE99xrYw7W-Fslw&expires=1754840834&t=1754797634
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌​​‌​​‌‌‌‌‌​​​‌ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjljZ1MWOkRWN4IjZtcTM5gTL3ADZ00SYjNTOtQmM5M2NyAzM/master.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌​‌‌​​​‌​‌​‌‌‌‌‌​​​​​‌ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=d-VQ6xHl8IXRFsrXQayiBA&expires=1754840843&t=1754797643
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=T2PWTzoGFtgfjtn5yCBJ2w&expires=1754844239&t=1754801039
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=4hT7lmIqbBNFEcIRykET2w&expires=1754840853&t=1754797653
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=TYzwvFKUXezSW0DU5XTKVg&expires=1754844249&t=1754801049
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=SEqjL-_-mFCnTglBNCriaQ&expires=1754840862&t=1754797662
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=SJN9Kd26twLSGWWhDoNPVQ&expires=1754844258&t=1754801058
