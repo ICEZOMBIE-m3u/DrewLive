@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-08-10T15:56:36.276157Z
+# Last forced update: 2025-08-10T16:13:52.138588Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -3030,6 +3030,66 @@ https://v4.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8?token=LBTPsB_enOlbVsN9k5
 https://v18.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8?token=1ATYINr9Uk52Mk6VmrWiwQ&expires=1754840261&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants - 8/9/25, 8:06:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" group-title="MLB",Washington Nationals @ San Francisco Giants - 8/9/25, 8:06:00 PM UTC
 https://v18.thetvapp.to/hls/mlb-27/tracks-v2a1/mono.m3u8?token=ryU3VCWp6dXrTZ8VCKzdng&expires=1754840257&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-02/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Boston Red Sox @ San Diego Padres (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Hd
+https://tvpass.org/live/mlb-08/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Chicago Cubs @ St. Louis Cardinals (08/10 7:11 Pm Et) Sd
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-26/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cincinnati Reds @ Pittsburgh Pirates (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-26/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Hd
+https://tvpass.org/live/mlb-03/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Cleveland Guardians @ Chicago White Sox (08/10 2:11 Pm Et) Sd
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-09/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Colorado Rockies @ Arizona Diamondbacks (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-09/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-15/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Houston Astros @ New York Yankees (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Hd
+https://tvpass.org/live/mlb-20/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Kansas City Royals @ Minnesota Twins (08/10 1:06 Pm Et) Sd
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Hd
+https://tvpass.org/live/mlb-21/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Los Angeles Angels @ Detroit Tigers (08/10 1:41 Pm Et) Sd
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-28/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Miami Marlins @ Atlanta Braves (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-28/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Hd
+https://tvpass.org/live/mlb-16/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",New York Mets @ Milwaukee Brewers (08/10 2:11 Pm Et) Sd
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Hd
+https://tvpass.org/live/mlb-17/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Oakland Athletics @ Baltimore Orioles (08/10 1:36 Pm Et) Sd
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Hd
+https://tvpass.org/live/mlb-13/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Philadelphia Phillies @ Texas Rangers (08/10 2:36 Pm Et) Sd
+https://tvpass.org/live/mlb-13/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-10/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Tampa Bay Rays @ Seattle Mariners (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Hd
+https://tvpass.org/live/mlb-14/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Toronto Blue Jays @ Los Angeles Dodgers (08/10 4:11 Pm Et) Sd
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Hd
+https://tvpass.org/live/mlb-27/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",Washington Nationals @ San Francisco Giants (08/10 4:06 Pm Et) Sd
+https://tvpass.org/live/mlb-27/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
@@ -4616,6 +4676,14 @@ https://v13.thetvapp.to/hls/NFL03/tracks-v2a1/mono.m3u8?token=YtllatgP6FQ6CHzpYA
 https://v16.thetvapp.to/hls/NFL04/tracks-v1a1/mono.m3u8?token=pYSaOl3dtVMAdYPZIC-3zA&expires=1754840401&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Houston Texans @ Minnesota Vikings - 8/9/25, 8:00:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL.png" group-title="NFL",Houston Texans @ Minnesota Vikings - 8/9/25, 8:00:00 PM UTC
 https://v16.thetvapp.to/hls/NFL04/tracks-v2a1/mono.m3u8?token=k59-ilWTjPqf61YCjniAwg&expires=1754840396&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Hd
+https://tvpass.org/live/NFL11/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",Miami Dolphins @ Chicago Bears (08/10 1:00 Pm Et) Sd
+https://tvpass.org/live/NFL11/sd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Hd
+https://tvpass.org/live/NFL12/hd
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL2.png" group-title="NFL",New Orleans Saints @ Los Angeles Chargers (08/10 4:05 Pm Et) Sd
+https://tvpass.org/live/NFL12/sd
 
 #EXTGRP:PBS
 #EXTINF:-1  tvg-name="Alaska Public Media" tvg-id="PBS.Kids.us" tvg-logo="https://image.pbs.org/stations/kakm-color-single-brand-logo-CKvfnQs.png" group-title="PBS",Alaska Public Media
@@ -7905,34 +7973,96 @@ https://v2.thetvapp.to/hls/tnt-sports-1/tracks-v2a1/mono.m3u8?token=UTGXBil8sf6G
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night: Roman Dolidze v Anthony Hernandez - 8/9/25, 9:10:00 PM UTC" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPV",UFC Fight Night: Roman Dolidze v Anthony Hernandez - 8/9/25, 9:10:00 PM UTC
 https://v3.thetvapp.to/hls/tnt-sports-1/tracks-v1a1/mono.m3u8?token=a-DfjwM5IwPbpe_dUGhhXQ&expires=1754840467&user_id=dGdsWGFJeWE0MGJzclRpZmw3M01xc3FlWTFRUDUyb0lITkJxYnZ2Qg==
 
+#EXTGRP:PPVLand - Baseball Action HD
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Athletics vs. Baltimore Orioles
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=l-t4qU2HIriylnMbSJ6Tng&expires=1754886196&t=1754842996
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Boston Red Sox vs. San Diego Padres
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=j7mD4qmiWvGwBQ6_vuzKrw&expires=1754886246&t=1754843046
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Chicago Cubs vs. St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Yjk4YjU1MjgzYTI5LTc0OTgtZDJhNC05ZmFmLTNkMjhkNjQ4/master.m3u8?md5=B9pH_sxrZsEj2YYxIBsNlw&expires=1754886284&t=1754843084
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Cleveland Guardians vs. Chicago White Sox
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=sj02i8Vhh_OwlEw3sZds0w&expires=1754886215&t=1754843015
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Colorado Rockies vs. Arizona Diamondbacks
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=OzvUEyJMZMbN2VQNeWFFcg&expires=1754886256&t=1754843056
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Los Angeles Angels vs. Detroit Tigers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWJmNWYzYjhjNjY2LWE1OGItZmI2NC1iNTUwLTBkNDgwNDg4/master.m3u8?md5=DrZ9ijr5G-GqXNWb8kJTAA&expires=1754886206&t=1754843006
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Miami Marlins vs. Atlanta Braves
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=8wa0R9ibcIw05j47gr0ZDw&expires=1754886187&t=1754842987
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Tampa Bay Rays vs. Seattle Mariners
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=GNAAIgnsGWBXW9rGhhMBWg&expires=1754886265&t=1754843065
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Toronto Blue Jays vs. Los Angeles Dodgers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=i8jBh6ydu_2-xpz2Xor9VQ&expires=1754886274&t=1754843074
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="PPVLand - Baseball Action HD",Washington Nationals vs. San Francisco Giants
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=-TLhBfR5DJ7SDMIm2hBE-Q&expires=1754886237&t=1754843037
+
 #EXTGRP:PPVLand - Global Football Streams
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Chelsea vs AC Milan
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwMWNwQ2M5QjZkljMtEjYwEWLyUDM00iNyYWYtYTMhFzNkljN/master.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Chelsea vs. Crystal Palace
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwMWNwQ2M5QjZkljMtEjYwEWLyUDM00iNyYWYtYTMhFzNkljN/master.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Crystal Palace vs Liverpool
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5QTZiBDM2UDZxczYtcTZmJWL2YGM00iY4YjYtAzYwAjYyczM/master.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer2.png" group-title="PPVLand - Global Football Streams",Manchester United vs. Arsenal
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=DVwoyXHROTiJ5tKHn7-acg&expires=1754882665&t=1754839465
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZTZmJmZ2kTZxQjYtADN1IWL0UjY00iYyUGZtIDNxQWYhFDZ/master.m3u8
 
 #EXTGRP:PPVLand - Live Channels 24/7
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",(North) Korean Central Television
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=oZ3NJ2wjBIEET5I7tdhCsw&expires=1754886436&t=1754843236
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=blaRPhoJQgx4p3qmhVmUFg&expires=1754882683&t=1754839483
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​​‌‌​​​​‌‌​‌​​‌‌‌‌​‌​​‌‌​​‌​​​​​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=OlSLVozMKQmw4FuAAdwsUw&expires=1754886406&t=1754843206
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​​​​‌‌‌‌‌​​​​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=J53sH8KZ1aZcKDzFh2EHcg&expires=1754882693&t=1754839493
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkFmM0MDZlNmM3EzYtUmN5IWL3ETZ00CN1UWOtUjM4YDNxI2M/master.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=G28tEI12RVK-s_TFsNMUTg&expires=1754886416&t=1754843216
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -10312,181 +10442,136 @@ https://jmp2.uk/sam-US270000298.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/JHDAJBDnjdna30.m3u8?st=I-dixTNXmeQ_8yuK6jYgaZfP2C1wrxQwhNGZDxgiROc&e=1754850136
+https://eastcaster.pro/hls/JHDAJBDnjdna30.m3u8?st=hqmvBwGVNrGzdiSAaGQ4aH05kZlQuJc5wcrjTIhGJfo&e=1754853955
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",New Orleans Saints vs. Los Angeles Chargers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/sfjnzabacah31.m3u8?st=uzZh3iCvmE4Lo6gGcInUOC9RXe5oSiVEcEdIzD-1Nio&e=1754850063
+https://edge1caster.pro/hls/sfjnzabacah31.m3u8?st=8tBt_CvAIxvF5ftl6ZZ0DgzArJdQE_gCMGTslEVTmWE&e=1754854010
 
 #EXTGRP:StreamEast - Baseball
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Athletics vs. Baltimore Orioles Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jkzahzadach20.m3u8?st=3vvzWvBjIin2ERSQbhlHbbo5WMEfLrFw6OqUeUYLA9M&e=1754850143
+https://edge1caster.pro/hls/jkzahzadach20.m3u8?st=xLRNuG7lmMP9s9B7EDG85xpH0FrObiZilVxYBzSs9NA&e=1754854004
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Boston Red Sox vs. San Diego Padres Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/jzabfazkbf27.m3u8?st=76ObH71PBFWZvNgJby3cidgSRJVDw5ougr4tTfk-Zj0&e=1754850093
+https://edge1caster.pro/hls/jzabfazkbf27.m3u8?st=kPBBQT0fPjc9VhadAIhZvQNGR2b1gJsC6csapuxpl-0&e=1754854019
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Chicago Cubs vs. St. Louis Cardinals Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/fskjanach24.m3u8?st=_-itmJXeqfwkgufvKjWX5bDfUqlQCoqImnoQ22kOPJQ&e=1754850108
+https://eastcaster.pro/hls/fskjanach24.m3u8?st=Wz3xuUHjMsUk-ob_WxLZ_I4fhEYayYHqTv8WqiwA6-o&e=1754853978
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cincinnati Reds vs. Pittsburgh Pirates Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=Tq2ioJr7QGftnxS_3ImnunOiWlsHcKKGlaksrs3SqxY&e=1754850082
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Cleveland Guardians vs. Chicago White Sox Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/ojzkajnach21.m3u8?st=_lT10FwPSOQYSS35oCYbriu1qmEh-ggsUcPlIXsKLuY&e=1754850058
+https://edge1caster.pro/hls/bzagLHzach19.m3u8?st=a8S5r5iU6bzAhl7_secLickYRWwJtA4JLHsf3Sd59Wk&e=1754853935
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Colorado Rockies vs. Arizona Diamondbacks Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/dzjhkfazbka26.m3u8?st=S4YoHl8_NdFNnDCbVDOa_R9BiFimLkm12ldCF0ErL5k&e=1754850077
+https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=RIm10r4J2O8TKIVWUNlzxrnrZCil-vC2-xoUvOjyWLs&e=1754853998
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Houston Astros vs. New York Yankees Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/iueyzbvezch16.m3u8?st=2LO9G9dtv7ZfN10Xk9UeclCM0_csHzVFa4E2etzQFvU&e=1754850130
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Kansas City Royals vs. Minnesota Twins Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/dazhfiach15.m3u8?st=tN72eFLhw1Qbzg91WvZbliS-quyVR8MuFYZXdSJ1Rpo&e=1754850087
+https://edge1caster.pro/hls/iueyzbvezch16.m3u8?st=L_3wa4DgjErtN7dXcB-bS5tRFqaBEa13nKEvC9X8Ye4&e=1754853940
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Los Angeles Angels vs. Detroit Tigers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=U5Y4cne87jfek90Fb_EeWmiUooZH-mX9prC2o8Ib8QA&e=1754850147
+https://edge1caster.pro/hls/Czajafjihafch18.m3u8?st=r4oN-e4WSOzvi_6KsucKZpKoXBmLu_Ok_6H9CTi7PSM&e=1754853951
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Miami Marlins vs. Atlanta Braves Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/dazhfiach15.m3u8?st=vV8kE3xo-J5dy9tAwLfU-q3uugEevuIFxWTjr_InhUw&e=1754850169
+https://edge1caster.pro/hls/dazhfiach15.m3u8?st=zJ-aSw_AecrHHWYm9YjKXj-bqB5GCHdDHoBnGMbW_cc&e=1754854014
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",New York Mets vs. Milwaukee Brewers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=4mM824AuOcdP33Tp8oJXeTJiDwEIjZ3kkfNrX8d6wQU&e=1754850071
+https://edge1caster.pro/hls/ijfnakfidch22.m3u8?st=0Dfkpc15vNno7rya8zKWup80soxi0zLDTOM2NINzSwM&e=1754854032
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Philadelphia Phillies vs. Texas Rangers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/kjhfzua25.m3u8?st=B9nlCzMIjCQtLHptDW6Tm0YEsTBhs2CYm00mEKYBzXs&e=1754850045
+https://edge1caster.pro/hls/kjhfzua25.m3u8?st=cFYocOg1y59CJ8ey_KFg9kcxDq180jmW5zu5dUngDrI&e=1754853948
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Tampa Bay Rays vs. Seattle Mariners Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=JqTy4Ojfwu_ulZ7Gs6iTfyaP1QDyGkhoaJvvSVkr_nk&e=1754850050
+https://edge1caster.pro/hls/hfzljfahzcax29.m3u8?st=3QrmLVmwbMZA4rKQLVK0IYK8b1NHXmb9JmeVmPmTAMI&e=1754854029
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Toronto Blue Jays vs. Los Angeles Dodgers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=BeVszOYIwcVlnuA6sJzWz64XxQ30Ic8evIkVcIAVmjM&e=1754850099
+https://edge1caster.pro/hls/hefbafbakx28.m3u8?st=xhhjy2kBbgPSK5tcuH3qc6rZy91J9-D7Y8qU-uNQQ2s&e=1754853965
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="StreamEast - Baseball",Washington Nationals vs. San Francisco Giants Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=Sd71kQ05Q2afPo28K1YjRjViM9456hEDFne0KYow22U&e=1754850103
+https://edge1caster.pro/hls/ihfazugfyjcazich17.m3u8?st=trbvTpkMTn0XILXL3G9F_QLocVc2EHYMwpFGpKxXuBA&e=1754853987
 
 #EXTGRP:StreamEast - Soccer
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Barcelona vs. Como Live Stream
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Borussia Dortmund vs. Juventus Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/sqdahach1ax.m3u8?st=ureII7AJYx88Z7c7MRgzbyUhVGN8-JoWdB8jRoCx0Rw&e=1754850125
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Chelsea vs. Milan Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#EXTVLCOPT:http-origin=https://streamscenter.online
-#EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://eastcaster.pro/hls/eJmauBDCIf.m3u8?st=HsfdwsqUjJ9QYAvzqoGpL1K0ubNWF1iIzLAQiKJHDk4&e=1754850166
+https://eastcaster.pro/hls/b0h5fNwDKH.m3u8?st=RZ4lf4Mj4WkAHr7GZfn73Zg6BcQQetvyTnlaB9kJo4o&e=1754853984
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Crystal Palace vs. Liverpool Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/24SDAZFcsqnj24.m3u8?st=1mi0O3ESZLb-NaJ1A8WQijLAIPa-VuBZSg_504DBlOs&e=1754850152
+https://eastcaster.pro/hls/24SDAZFcsqnj24.m3u8?st=MdSDmiE4x3xREkhl27QBNGiRsSJrK7a5k07NRwCPK7I&e=1754854024
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamEast - Soccer",Villarreal vs. Aston Villa Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://edge1caster.pro/hls/griogoehvn2.m3u8?st=D-VT7-I3BfHl5SOl9WV3xpOptci9Z8arl6dpFMa98Dk&e=1754850120
+https://edge1caster.pro/hls/griogoehvn2.m3u8?st=ML_bPRujmUesWtBARfN7MH4cVj3BTPOZv3pCWUGLatk&e=1754853962
 
 #EXTGRP:StreamedSU - American Football
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTtc6kiETcQAExAoQR-XyMhNiA4RjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Chicago Bears vs Miami Dolphins (English - HD)
-https://rr.strmd.top/secure/MjYadfUKmW/charlie/stream/miami-dolphins-vs-chicago-bears-1629454525/1/playlist.m3u8
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGVlMTRiOGI4YjE3LTBlZWEtMWVkNC0xNjQxLTYzY2UzMjlm/master.m3u8?md5=9nRgK13hxyVgHTg1B4V-EA&expires=1754882633&t=1754839433
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm1Xr0IwQ3ECpAG+II4gggUOkDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Los Angeles Chargers vs New Orleans Saints (English - HD)
-https://rr.strmd.top/secure/bwOBNeIyVg/charlie/stream/new-orleans-saints-vs-los-angeles-chargers-1629454543/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxheq+nxAATENxAkQiFAaMgtiHCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",San Francisco 49ers vs Denver Broncos (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjAwOWM3YWE1MzNkLTRiODktNzJhNC04MThhLWM4MGUwMDUx/master.m3u8?md5=wMGBLZSu5z0ndO9Lfuw6gg&expires=1754876429&t=1754833229
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Nzk3OTRmOGFkNzY1LTRjOTgtODRjNC05NGFhLWEyZDVhMDcy/master.m3u8?md5=h9S-gtFNLtIALoua8dnhhQ&expires=1754882642&t=1754839442
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKzSnLwl83FOzBF4LBQQakaHAxVYQgA.webp" group-title="StreamedSU - American Football",Tennessee Titans vs Tampa Bay Buccaneers (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWNjMjc2YjFhMDdlLTYwZTktNDBiNC03MzdlLWM0MTA1MjVl/master.m3u8?md5=Qa1-BdTafwheThKg5F-rbQ&expires=1754876510&t=1754833310
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWNjMjc2YjFhMDdlLTYwZTktNDBiNC03MzdlLWM0MTA1MjVl/master.m3u8?md5=lCXVvY8och913VFtv5WhFw&expires=1754882420&t=1754839220
 
 #EXTGRP:StreamedSU - Baseball
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title="StreamedSU - Baseball",Cincinnati Reds vs Philadelphia Phillies (English - HD)
-https://rr.strmd.top/secure/TqJhSDcDup/charlie/stream/philadelphia-phillies-vs-cincinnati-reds-1629455831/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs Colorado Rockies (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjZkNTE4NmUyZDM0LTJjMGEtZTYxNC0xN2YwLTVkNTM4Njdm/master.m3u8?md5=WfgtIFs9OjPgt411X2f4Qg&expires=1754884098&t=1754840898
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Baltimore Orioles vs Athletics (English - HD)
+https://rr.strmd.top/secure/gzmVEotTjn/delta/stream/live_mlb_orioles-athletics-live-streaming-958884156/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Detroit Tigers (English - HD)
+https://rr.strmd.top/secure/kcMlSqDifs/charlie/stream/detroit-tigers-vs-chicago-white-sox-1629455835/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIoCGVXCXzcU7MEXgt5BdWQ76KrCEA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Minnesota Twins (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTJhZmJkMDI5ZmQxLWEzZGItNGU2NC01ZGM2LTE0MTViZjc2/master.m3u8?md5=zHjUyJwhL09AAwGsQWyoxg&expires=1754882832&t=1754839632
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Toronto Blue Jays (English - HD)
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjQyY2E2ZmU3MjdmLTI3Y2EtNGMwNC04NThlLTkwMmRkNWI4/master.m3u8?md5=PU8NpeXSMM8LUAoBT9tQtw&expires=1754882694&t=1754839494
 
 #EXTGRP:StreamedSU - Fight (UFC, Boxing)
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Andrew Moloney vs Argi Cortes (Unknown - SD)
-https://rr.strmd.top/secure/ZdJYSXadLN/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
+https://rr.strmd.top/secure/balUXAmgkn/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Gervonta ‘Tank’ Davis vs Lamont Roach (Unknown - SD)
+https://rr.strmd.top/secure/balUXAmgkn/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Muhammadkhuja Yaqubov vs William Foster III (Unknown - SD)
-https://rr.strmd.top/secure/ZdJYSXadLN/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Omar Trinidad vs Lorenzo Parra II (Unknown - SD)
-https://rr.strmd.top/secure/ZdJYSXadLN/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
+https://rr.strmd.top/secure/balUXAmgkn/charlie/stream/quarter-finals-day-1-1629455870/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",MMA: Dana White's Contender Series: Season 9, Week 1 (English - HD)
-https://rr.strmd.top/secure/dUtYnLOumC/charlie/stream/dana-whites-contender-series-season-9-week-1-1629455855/1/playlist.m3u8
+https://rr.strmd.top/secure/MIhpeHEIVk/charlie/stream/dana-whites-contender-series-season-9-week-1-1629455855/1/playlist.m3u8
 
 #EXTGRP:StreamedSU - Football
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",1. FC Kaiserslautern vs FC Schalke 04 (English - HD)
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LykTYlRWYwETZ4QmZtYWMhhTLwcjM00SOiNzYtI2Y3ADM3gjY/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpPIATBmBAhVIbtpB8QJEImM4UIGNoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Arzignano Valchiampo vs Carpi (Unknown - SD)
-https://rr.strmd.top/secure/tJoNFuHUuy/charlie/stream/dortmund-vs-juventus-1629454277/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA.webp" group-title="StreamedSU - Football",Austin FC vs Houston Dynamo (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTM3ZTRmMWJiYWM1LWI1MzgtZGNlNC0yNmI3LWQ4NWU2NjZi/master.m3u8?md5=AELMoopI-tRVG8Ti-6QqCg&expires=1754873528&t=1754830328
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLC80IEP1IhuIPjpAATECiMgYIRCUsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Borussia Dortmund vs Juventus (English - HD)
-https://rr.strmd.top/secure/tJoNFuHUuy/charlie/stream/dortmund-vs-juventus-1629454277/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAh+Ier1YQQ3EABMQfVUd2mchiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Braga vs Tondela (English - HD)
-https://rr.strmd.top/secure/FGSITmjKjG/charlie/stream/sc-braga-vs-tondela-1396239/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",CF Montréal vs Atlanta United (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzYxNjVlMzBiMWE3LWQzZmItNWYxNC02MTM0LWNjOWE2NjRl/master.m3u8?md5=IKC2V1fH2CYwblBdRAG6AQ&expires=1754873536&t=1754830336
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhwoxH1UhuIACYhEKEBBDHEug3oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Chicago Fire vs Los Angeles FC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTMzZTBlOTFkNjIwLTEwYWEtNjAyNC1hMTgwLWM3NTI2MGUx/master.m3u8?md5=DbB4ksjjgg34zwc8xXQARw&expires=1754873519&t=1754830319
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Dynamo Dresden vs 1. FC Magdeburg (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0UTY0I2YhFDMxMzMtkTZxEWLmRjY00CN0YDOtIWM3ATNldzN/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Eintracht Braunschweig vs SpVgg Greuther Fürth (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LykzYlBTY2AzMzUGZtgjYyEWL5cTO00CNjdDNtMmNyM2NiRWM/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFaHK9E3EHxAw9IFSB0GQEYwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",FC Cincinnati vs Charlotte FC (English - HD)
-https://rr.strmd.top/secure/EPEulExiPt/charlie/stream/fc-cincinnati-vs-charlotte-1326587/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Fortuna Düsseldorf vs Hannover 96 (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiVDOlBDNiFWOjRWNtIjZhlTLzITM00SY3cTMtQWMkNjY4kjZ/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8AJhTZ8EqkCV0QQiFCEP6cEAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Holstein Kiel vs Arminia Bielefeld (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LiVDOlBDNiFWOjRWNtIjZhlTLzITM00SY3cTMtQWMkNjY4kjZ/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp" group-title="StreamedSU - Football",LA Galaxy vs Seattle Sounders FC (Unknown - SD)
-https://rr.strmd.top/secure/TQndzEadaz/charlie/stream/los-angeles-galaxy-vs-seattle-sounders-1326591/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Manchester United vs. Arsenal (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LkZTZmJmZ2kTZxQjYtADN1IWL0UjY00iYyUGZtIDNxQWYhFDZ/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5gUsDeD4huICLhCIQhg4hwATAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Orlando City vs Inter Miami (English - HD)
-https://rr.strmd.top/secure/DTcZkGccuV/charlie/stream/orlando-city-sc-vs-inter-miami-1326590/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Philadelphia Union vs Toronto FC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzdkZDM5ZjZhNjQ5LWM0MjktMmI3NC05YmNjLTlkNGMwN2U0/master.m3u8?md5=gHWaq9bcni8kuZi1Bsv8eg&expires=1754873564&t=1754830364
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuly4wA3oRghuIACYg+ICDtMhDqiAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",St. Louis City SC vs Nashville SC (English - HD)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTgxNjQ4NGYyOTE3LTE5Y2ItODgzNC03OGI2LWI2MDcyOWJk/master.m3u8?md5=TlqlM9TNcbupCvSu8DU_3Q&expires=1754873496&t=1754830296
-
-#EXTGRP:StreamedSU - Motor Sports
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Moto3 2025 - Motorrad GP von Osterreich 2025 (Unknown - SD)
-https://rr.strmd.top/secure/lKcEzPVWgu/alpha/stream/ntt-indycar-series-bitnile-com-grand-prix-of-portland/7/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",NASCAR Cup Series 2025 - Richmond (Unknown - SD)
-https://rr.strmd.top/secure/lKcEzPVWgu/alpha/stream/ntt-indycar-series-bitnile-com-grand-prix-of-portland/7/playlist.m3u8
-
-#EXTGRP:StreamedSU - Other
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IRDBDZl9cgwDGzST3hiq3Al1ZgwufFaA.webp" group-title="StreamedSU - Other",Australia vs South Africa (Unknown - SD)
-https://rr.strmd.top/secure/kxViLLgcIX/echo/stream/nexo-championship-final-round-european-pga-tour-golf-golf-2202/2/playlist.m3u8
+https://rr.strmd.top/secure/pZfaDrvshP/charlie/stream/dortmund-vs-juventus-1629454277/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQ8QJEIhT8Q3dSAMwQKXCD4gIx3QQpM+2tmDLwi80dqa0wTsaIhA.webp" group-title="StreamedSU - Football",Lausanne-Sport vs Zürich (Unknown - SD)
+https://rr.strmd.top/secure/CWTjdxJcUJ/bravo/stream/1754836200000-lugano-basel/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRwfaCRDcQEXSAMGdiRFoAmBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="StreamedSU - Football",Leicester City vs Sheffield Wednesday (English - HD)
+https://rr.strmd.top/secure/cZoAJLQZek/charlie/stream/leicester-vs-sheffield-wednesday-1386562/1/playlist.m3u8
 
 #EXTGRP:TheTVApp
 #EXTINF:-1  tvg-name="A&E HD" tvg-id="ae-us-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="TheTVApp",A&E HD
@@ -10967,82 +11052,82 @@ https://v14.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=BbVLdqE4zMcg_w1M
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/977fe17a1d0e489788c4317f183b52c8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijk3N2ZlMTdhMWQwZTQ4OTc4OGM0MzE3ZjE4M2I1MmM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/977fe17a1d0e489788c4317f183b52c8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijk3N2ZlMTdhMWQwZTQ4OTc4OGM0MzE3ZjE4M2I1MmM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" ,24/7: Dragon Ball Franchise ((OFFLINE) Dragon Ball (1986 to 1989))
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/V7fi53ovudaDRADa7RaSW5DrEVajAc1s.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlY3Zmk1M292dWRhRFJBRGE3UmFTVzVEckVWYWpBYzFzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/V7fi53ovudaDRADa7RaSW5DrEVajAc1s.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlY3Zmk1M292dWRhRFJBRGE3UmFTVzVEckVWYWpBYzFzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" ,24/7: Dragon Ball Franchise (Dragon Ball Daima (2024 to 2025))
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/BA694118A4FAA2F21B0A94EEF51DD23E.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkJBNjk0MTE4QTRGQUEyRjIxQjBBOTRFRUY1MUREMjNFIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/BA694118A4FAA2F21B0A94EEF51DD23E.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkJBNjk0MTE4QTRGQUEyRjIxQjBBOTRFRUY1MUREMjNFIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" ,24/7: Dragon Ball Franchise (Dragon Ball GT (1996 to 1997))
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5F710362AC8355B156420AC6DA2269F1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVGNzEwMzYyQUM4MzU1QjE1NjQyMEFDNkRBMjI2OUYxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5F710362AC8355B156420AC6DA2269F1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVGNzEwMzYyQUM4MzU1QjE1NjQyMEFDNkRBMjI2OUYxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" ,24/7: Dragon Ball Franchise (Dragon Ball Super (2015 to 2018))
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/88D86E4D8C26C641968D84A8F1C4A54B.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijg4RDg2RTREOEMyNkM2NDE5NjhEODRBOEYxQzRBNTRCIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/88D86E4D8C26C641968D84A8F1C4A54B.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijg4RDg2RTREOEMyNkM2NDE5NjhEODRBOEYxQzRBNTRCIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" ,24/7: Dragon Ball Franchise (Dragon Ball Z (1996 to 2003))
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/pH1yC6tG9rU2pL5zQ0nH3sI8wB4tFi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBIMXlDNnRHOXJVMnBMNXpRMG5IM3NJOHdCNHRGaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTQsImV4cCI6MTc1NDg1MDc5NH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/pH1yC6tG9rU2pL5zQ0nH3sI8wB4tFi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBIMXlDNnRHOXJVMnBMNXpRMG5IM3NJOHdCNHRGaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNTYsImV4cCI6MTc1NDg1NDE1Nn0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://media.vanityfair.com/photos/610c083f0b170c6defc5ca9f/16:9/w_1999,h_1124,c_limit/south-park-comedy-central.jpg" ,24/7: South Park
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/0c81eab6e8a820776e7b3a97681d218f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjBjODFlYWI2ZThhODIwNzc2ZTdiM2E5NzY4MWQyMThmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/0c81eab6e8a820776e7b3a97681d218f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjBjODFlYWI2ZThhODIwNzc2ZTdiM2E5NzY4MWQyMThmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUwNjBkMmUtZjM2My00NmM4LTlmOWQtNWE5YTdmN2Y2MTgxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg" ,24/7: Spongebob Squarepants
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3841c72cfde4cef9a22f64b2491061fd.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM4NDFjNzJjZmRlNGNlZjlhMjJmNjRiMjQ5MTA2MWZkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3841c72cfde4cef9a22f64b2491061fd.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM4NDFjNzJjZmRlNGNlZjlhMjJmNjRiMjQ5MTA2MWZkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/abc_2.png" ,ABC
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/wffwehg9yklo7k3dmabqxi70sbws5w4q.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndmZndlaGc5eWtsbzdrM2RtYWJxeGk3MHNid3M1dzRxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/wffwehg9yklo7k3dmabqxi70sbws5w4q.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndmZndlaGc5eWtsbzdrM2RtYWJxeGk3MHNid3M1dzRxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://cdn.iview.abc.net.au/thumbs/i/X0_680b1678c94e5_1280.jpg" ,ABC TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/7e4da2868f0546b7f269c36c85d8dfac.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdlNGRhMjg2OGYwNTQ2YjdmMjY5YzM2Yzg1ZDhkZmFjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/7e4da2868f0546b7f269c36c85d8dfac.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdlNGRhMjg2OGYwNTQ2YjdmMjY5YzM2Yzg1ZDhkZmFjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.postimg.cc/XvjVZy7k/Frame-1-5.png" ,Arena Sport 1 ((Croatia) Hrvatska)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/291c54b2d20480e5c728a70ac36bda2f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI5MWM1NGIyZDIwNDgwZTVjNzI4YTcwYWMzNmJkYTJmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/291c54b2d20480e5c728a70ac36bda2f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI5MWM1NGIyZDIwNDgwZTVjNzI4YTcwYWMzNmJkYTJmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://artwork.espncdn.com/programs/2a93abfe-c0cd-4734-9483-5016d6cb8392/16x9/1280x720_20250729213746.jpg" ,Aston Villa vs Villarreal (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/f02f044bfe3c9243202d9e2da00ba55d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImYwMmYwNDRiZmUzYzkyNDMyMDJkOWUyZGEwMGJhNTVkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/f02f044bfe3c9243202d9e2da00ba55d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImYwMmYwNDRiZmUzYzkyNDMyMDJkOWUyZGEwMGJhNTVkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/astroc.png" ,Astro Cricket
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/220c77f52471faf24fa6d694e69bd1b1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjIyMGM3N2Y1MjQ3MWZhZjI0ZmE2ZDY5NGU2OWJkMWIxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/220c77f52471faf24fa6d694e69bd1b1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjIyMGM3N2Y1MjQ3MWZhZjI0ZmE2ZDY5NGU2OWJkMWIxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/axs.png" ,Axs TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3271469af3414e0e303060c2251484c8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjMyNzE0NjlhZjM0MTRlMGUzMDMwNjBjMjI1MTQ4NGM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3271469af3414e0e303060c2251484c8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjMyNzE0NjlhZjM0MTRlMGUzMDMwNjBjMjI1MTQ4NGM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/bs7K04j-16x9.jpg" ,Bayern Munchen vs. RB Leipzig (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/51729c06a74902c275bff19b74b8a892.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjUxNzI5YzA2YTc0OTAyYzI3NWJmZjE5Yjc0YjhhODkyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/51729c06a74902c275bff19b74b8a892.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjUxNzI5YzA2YTc0OTAyYzI3NWJmZjE5Yjc0YjhhODkyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/beinsport.png" ,Bein Sports USA
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/afdb73c451239369681c5e34207bf17a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFmZGI3M2M0NTEyMzkzNjk2ODFjNWUzNDIwN2JmMTdhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/afdb73c451239369681c5e34207bf17a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFmZGI3M2M0NTEyMzkzNjk2ODFjNWUzNDIwN2JmMTdhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/DfLjmQi-b859487e-e705-4c32-993f-10b39721751e.jpg" ,Big Brother 27: Camera Feeds (AD-FREE) (FEED 1)
 #EXTVLCOPT:http-origin=https://timstreams.site
 #EXTVLCOPT:http-referrer=https://timstreams.site/
@@ -11072,587 +11157,587 @@ https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535928-1/playlist.m3u8
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6f26a3f2f96ca70a26215b8351a36742.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZmMjZhM2YyZjk2Y2E3MGEyNjIxNWI4MzUxYTM2NzQyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6f26a3f2f96ca70a26215b8351a36742.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZmMjZhM2YyZjk2Y2E3MGEyNjIxNWI4MzUxYTM2NzQyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1q2rajbpd82b2suv3lj3pxie1_image-header_pRow_1751543929000&quality=70" ,Borussia Dortmund vs Juventus (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/007d9a0ae2bc82a9868ee8bdb51486f0.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjAwN2Q5YTBhZTJiYzgyYTk4NjhlZThiZGI1MTQ4NmYwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/007d9a0ae2bc82a9868ee8bdb51486f0.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjAwN2Q5YTBhZTJiYzgyYTk4NjhlZThiZGI1MTQ4NmYwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" ,Bravo
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/54a7a4af051a2835711c41160039a53a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0YTdhNGFmMDUxYTI4MzU3MTFjNDExNjAwMzlhNTNhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/54a7a4af051a2835711c41160039a53a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0YTdhNGFmMDUxYTI4MzU3MTFjNDExNjAwMzlhNTNhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cartoon.png" ,Cartoon Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/j7frlCr9theTHiPhistuSPInuchosawE.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo3ZnJsQ3I5dGhlVEhpUGhpc3R1U1BJbnVjaG9zYXdFIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/j7frlCr9theTHiPhistuSPInuchosawE.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo3ZnJsQ3I5dGhlVEhpUGhpc3R1U1BJbnVjaG9zYXdFIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cbs.png" ,CBS
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/v3weufn13faamb6eqbgd8myxv7zqe314.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InYzd2V1Zm4xM2ZhYW1iNmVxYmdkOG15eHY3enFlMzE0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/v3weufn13faamb6eqbgd8myxv7zqe314.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InYzd2V1Zm4xM2ZhYW1iNmVxYmdkOG15eHY3enFlMzE0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cbsgolazo.png" ,CBS Sports Golazo Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/CESwuPhe1iSlp6ray6nEMozLtR4X7w4b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkNFU3d1UGhlMWlTbHA2cmF5Nm5FTW96THRSNFg3dzRiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/CESwuPhe1iSlp6ray6nEMozLtR4X7w4b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkNFU3d1UGhlMWlTbHA2cmF5Nm5FTW96THRSNFg3dzRiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cbssports.png" ,CBS Sports Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/kD4hG2fW9pA7uN1bS8mL5yQ0cX6oZr.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImtENGhHMmZXOXBBN3VOMWJTOG1MNXlRMGNYNm9aciIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTQsImV4cCI6MTc1NDg1MDc5NH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/kD4hG2fW9pA7uN1bS8mL5yQ0cX6oZr.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImtENGhHMmZXOXBBN3VOMWJTOG1MNXlRMGNYNm9aciIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNTcsImV4cCI6MTc1NDg1NDE1N30.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://ichef.bbci.co.uk/images/ic/640x360/p0d36trc.jpg" ,Chelsea vs AC Milan (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/2293ef3090d4a5ce63467ccf1bdc990d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjIyOTNlZjMwOTBkNGE1Y2U2MzQ2N2NjZjFiZGM5OTBkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/2293ef3090d4a5ce63467ccf1bdc990d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjIyOTNlZjMwOTBkNGE1Y2U2MzQ2N2NjZjFiZGM5OTBkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" ,Comet
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9fa74c310c7d19017b5b0e2cd9d91b26.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjlmYTc0YzMxMGM3ZDE5MDE3YjViMGUyY2Q5ZDkxYjI2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9fa74c310c7d19017b5b0e2cd9d91b26.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjlmYTc0YzMxMGM3ZDE5MDE3YjViMGUyY2Q5ZDkxYjI2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://mrfixitstips.co.uk/thumbor/bALKZX38tkajPvrtyXMnEzFV8xI=/1038x584/smart/https%3A%2F%2Fmrfixitstips.co.uk%2Fapp%2Fuploads%2F2023%2F11%2FMRF2023_Crystal-Palace-v-Liverpool.jpg" ,Crystal Palace vs Liverpool (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/4b9a7fa66295d31f73cf0c9637e1436d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjRiOWE3ZmE2NjI5NWQzMWY3M2NmMGM5NjM3ZTE0MzZkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/4b9a7fa66295d31f73cf0c9637e1436d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjRiOWE3ZmE2NjI5NWQzMWY3M2NmMGM5NjM3ZTE0MzZkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cw.png" ,CW
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/szbo55s91rn5itcxm7760dkw3r8yiexy.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InN6Ym81NXM5MXJuNWl0Y3htNzc2MGRrdzNyOHlpZXh5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NCwiZXhwIjoxNzU0ODUwNzk0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/szbo55s91rn5itcxm7760dkw3r8yiexy.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InN6Ym81NXM5MXJuNWl0Y3htNzc2MGRrdzNyOHlpZXh5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/daserste.png" ,Das Erste/ARD
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5a322cdd04ff28608dfebb4d9fe5babc.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVhMzIyY2RkMDRmZjI4NjA4ZGZlYmI0ZDlmZTViYWJjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5a322cdd04ff28608dfebb4d9fe5babc.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVhMzIyY2RkMDRmZjI4NjA4ZGZlYmI0ZDlmZTViYWJjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/dazn1.png" ,DAZN 1 UK
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/29f80fe360ea09758cda99ec2eb61fd2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI5ZjgwZmUzNjBlYTA5NzU4Y2RhOTllYzJlYjYxZmQyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/29f80fe360ea09758cda99ec2eb61fd2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI5ZjgwZmUzNjBlYTA5NzU4Y2RhOTllYzJlYjYxZmQyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NywiZXhwIjoxNzU0ODU0MTU3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/03/17/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673-1742219029838.webp?impolicy=resize&w=1920&h=1080" ,Dirtvision Now 24/7
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/761db9084b4158f600b5486760ba70f4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijc2MWRiOTA4NGI0MTU4ZjYwMGI1NDg2NzYwYmE3MGY0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/761db9084b4158f600b5486760ba70f4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijc2MWRiOTA4NGI0MTU4ZjYwMGI1NDg2NzYwYmE3MGY0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" ,Discovery Channel
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/bb49ec4e7a8495c21d2941e9c3e0dd9c.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImJiNDllYzRlN2E4NDk1YzIxZDI5NDFlOWMzZTBkZDljIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/bb49ec4e7a8495c21d2941e9c3e0dd9c.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImJiNDllYzRlN2E4NDk1YzIxZDI5NDFlOWMzZTBkZDljIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/disney.png" ,Disney Channel
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/gT6mA1xL8nU5dY2eR7wB9vH3zQ4pSi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImdUNm1BMXhMOG5VNWRZMmVSN3dCOXZIM3pRNHBTaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTUsImV4cCI6MTc1NDg1MDc5NX0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/gT6mA1xL8nU5dY2eR7wB9vH3zQ4pSi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImdUNm1BMXhMOG5VNWRZMmVSN3dCOXZIM3pRNHBTaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNTgsImV4cCI6MTc1NDg1NDE1OH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" ,Disney Junior
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/59a7cb5768532c91ca57207eaeb9b838.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU5YTdjYjU3Njg1MzJjOTFjYTU3MjA3ZWFlYjliODM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/59a7cb5768532c91ca57207eaeb9b838.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU5YTdjYjU3Njg1MzJjOTFjYTU3MjA3ZWFlYjliODM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/disney-xd-hd-us.png?raw=true" ,Disney XD
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/d1a53d061de53b59499c1616accb42a2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQxYTUzZDA2MWRlNTNiNTk0OTljMTYxNmFjY2I0MmEyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/d1a53d061de53b59499c1616accb42a2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQxYTUzZDA2MWRlNTNiNTk0OTljMTYxNmFjY2I0MmEyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.com/djxb12P.jpeg" ,East vs West 19 - Strongest Arm on Earth (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/d613a5458a4ac2bf2cb30d0c7f1ca500.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQ2MTNhNTQ1OGE0YWMyYmYyY2IzMGQwYzdmMWNhNTAwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/d613a5458a4ac2bf2cb30d0c7f1ca500.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQ2MTNhNTQ1OGE0YWMyYmYyY2IzMGQwYzdmMWNhNTAwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn.png" ,ESPN
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/tgcyutly3zujtd3bgef8nevyy5v5n301.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InRnY3l1dGx5M3p1anRkM2JnZWY4bmV2eXk1djVuMzAxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/tgcyutly3zujtd3bgef8nevyy5v5n301.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InRnY3l1dGx5M3p1anRkM2JnZWY4bmV2eXk1djVuMzAxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png" ,ESPN Deportes
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/45cb98f6ff304e742c65ec6a3b5d087f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjQ1Y2I5OGY2ZmYzMDRlNzQyYzY1ZWM2YTNiNWQwODdmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/45cb98f6ff304e742c65ec6a3b5d087f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjQ1Y2I5OGY2ZmYzMDRlNzQyYzY1ZWM2YTNiNWQwODdmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espn2.png" ,ESPN2
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/zL7vB5kT3aO1gR8iX4nF6wP9dY2uHs.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InpMN3ZCNWtUM2FPMWdSOGlYNG5GNndQOWRZMnVIcyIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTUsImV4cCI6MTc1NDg1MDc5NX0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/zL7vB5kT3aO1gR8iX4nF6wP9dY2uHs.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InpMN3ZCNWtUM2FPMWdSOGlYNG5GNndQOWRZMnVIcyIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNTgsImV4cCI6MTc1NDg1NDE1OH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espnews.png" ,ESPNews
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/hN9eS4rZ1wM7fC3vJ0aX8pG2yQ5bUi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImhOOWVTNHJaMXdNN2ZDM3ZKMGFYOHBHMnlRNWJVaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTUsImV4cCI6MTc1NDg1MDc5NX0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/hN9eS4rZ1wM7fC3vJ0aX8pG2yQ5bUi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImhOOWVTNHJaMXdNN2ZDM3ZKMGFYOHBHMnlRNWJVaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNTgsImV4cCI6MTc1NDg1NDE1OH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/espnu.png" ,ESPNU
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/oI3uC8jF6yP2bW0zQ9nA5sM7lX1eRt.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Im9JM3VDOGpGNnlQMmJXMHpROW5BNXNNN2xYMWVSdCIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTUsImV4cCI6MTc1NDg1MDc5NX0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/oI3uC8jF6yP2bW0zQ9nA5sM7lX1eRt.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Im9JM3VDOGpGNnlQMmJXMHpROW5BNXNNN2xYMWVSdCIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNTgsImV4cCI6MTc1NDg1NDE1OH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.com/BosoXAH.png" ,Esports World Cup Fight Week: Itauma vs. Whyte (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/a93005038b3194cadd8b393887698319.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImE5MzAwNTAzOGIzMTk0Y2FkZDhiMzkzODg3Njk4MzE5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/a93005038b3194cadd8b393887698319.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImE5MzAwNTAzOGIzMTk0Y2FkZDhiMzkzODg3Njk4MzE5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/flo.png" ,Floracing TV 24/7
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9611c44e170c1ccaef48a08623ee9937.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijk2MTFjNDRlMTcwYzFjY2FlZjQ4YTA4NjIzZWU5OTM3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9611c44e170c1ccaef48a08623ee9937.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijk2MTFjNDRlMTcwYzFjY2FlZjQ4YTA4NjIzZWU5OTM3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox.png" ,FOX
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/o282ztvzyz2nv82nowu477d4zriul8ji.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Im8yODJ6dHZ6eXoybnY4Mm5vd3U0NzdkNHpyaXVsOGppIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/o282ztvzyz2nv82nowu477d4zriul8ji.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Im8yODJ6dHZ6eXoybnY4Mm5vd3U0NzdkNHpyaXVsOGppIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-deportes-flat-us.png" ,Fox Deportes
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/26f350e4a688a9a15a10f1c76712551f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI2ZjM1MGU0YTY4OGE5YTE1YTEwZjFjNzY3MTI1NTFmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/26f350e4a688a9a15a10f1c76712551f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI2ZjM1MGU0YTY4OGE5YTE1YTEwZjFjNzY3MTI1NTFmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/foxsoccp.png" ,Fox Soccer Plus
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/trAbIqUqIYicRlcHuri1LwenehacrowU.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InRyQWJJcVVxSVlpY1JsY0h1cmkxTHdlbmVoYWNyb3dVIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NSwiZXhwIjoxNzU0ODUwNzk1fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/trAbIqUqIYicRlcHuri1LwenehacrowU.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InRyQWJJcVVxSVlpY1JsY0h1cmkxTHdlbmVoYWNyb3dVIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox501.png" ,Fox Sports 501
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/2460d86d3892c5f73fb23a159ec07a73.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI0NjBkODZkMzg5MmM1ZjczZmIyM2ExNTllYzA3YTczIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/2460d86d3892c5f73fb23a159ec07a73.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI0NjBkODZkMzg5MmM1ZjczZmIyM2ExNTllYzA3YTczIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox502.png" ,Fox Sports 502
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c781d5bf532f568fb2770c0a8afbf808.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImM3ODFkNWJmNTMyZjU2OGZiMjc3MGMwYThhZmJmODA4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c781d5bf532f568fb2770c0a8afbf808.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImM3ODFkNWJmNTMyZjU2OGZiMjc3MGMwYThhZmJmODA4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox503.png" ,Fox Sports 503
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6700ac25ea0d4068bcfc953bf9ea0444.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjY3MDBhYzI1ZWEwZDQwNjhiY2ZjOTUzYmY5ZWEwNDQ0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6700ac25ea0d4068bcfc953bf9ea0444.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjY3MDBhYzI1ZWEwZDQwNjhiY2ZjOTUzYmY5ZWEwNDQ0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox504.png" ,Fox Sports 504
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/be3900a8819013eef554d9aeee14b9bd.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImJlMzkwMGE4ODE5MDEzZWVmNTU0ZDlhZWVlMTRiOWJkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/be3900a8819013eef554d9aeee14b9bd.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImJlMzkwMGE4ODE5MDEzZWVmNTU0ZDlhZWVlMTRiOWJkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OCwiZXhwIjoxNzU0ODU0MTU4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox505.png" ,Fox Sports 505
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/58582ebdda51b171777a15c61e74a089.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU4NTgyZWJkZGE1MWIxNzE3NzdhMTVjNjFlNzRhMDg5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/58582ebdda51b171777a15c61e74a089.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU4NTgyZWJkZGE1MWIxNzE3NzdhMTVjNjFlNzRhMDg5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" ,Fox Sports 506
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ac0dfaf43b236054ea5ebe5862b68d00.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFjMGRmYWY0M2IyMzYwNTRlYTVlYmU1ODYyYjY4ZDAwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ac0dfaf43b236054ea5ebe5862b68d00.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFjMGRmYWY0M2IyMzYwNTRlYTVlYmU1ODYyYjY4ZDAwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs1.png" ,FS1
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/j7xysrst3ytbc4h50of84mmbyrn4ba9v.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo3eHlzcnN0M3l0YmM0aDUwb2Y4NG1tYnlybjRiYTl2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/j7xysrst3ytbc4h50of84mmbyrn4ba9v.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo3eHlzcnN0M3l0YmM0aDUwb2Y4NG1tYnlybjRiYTl2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fs2.png" ,FS2
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9bfdo7kxd45sst08hbuh6rwhkykmitwb.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjliZmRvN2t4ZDQ1c3N0MDhoYnVoNnJ3aGt5a21pdHdiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9bfdo7kxd45sst08hbuh6rwhkykmitwb.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjliZmRvN2t4ZDQ1c3N0MDhoYnVoNnJ3aGt5a21pdHdiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fubo.png" ,Fubo Sports Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/92399eaa937b3e8386b43ed0e15150e2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjkyMzk5ZWFhOTM3YjNlODM4NmI0M2VkMGUxNTE1MGUyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/92399eaa937b3e8386b43ed0e15150e2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjkyMzk5ZWFhOTM3YjNlODM4NmI0M2VkMGUxNTE1MGUyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.com/Ix28ePq.jpeg" ,Game Show Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3599b87a6e70682b24184a3040a13fe8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM1OTliODdhNmU3MDY4MmIyNDE4NGEzMDQwYTEzZmU4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/3599b87a6e70682b24184a3040a13fe8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM1OTliODdhNmU3MDY4MmIyNDE4NGEzMDQwYTEzZmU4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/baRXAi6-image.png" ,Girona FC vs. Rayo Vallecano (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e13cc85067aca65dc84ab262ffe05c5f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUxM2NjODUwNjdhY2E2NWRjODRhYjI2MmZmZTA1YzVmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e13cc85067aca65dc84ab262ffe05c5f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUxM2NjODUwNjdhY2E2NWRjODRhYjI2MmZmZTA1YzVmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" ,History
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/77a76af9eb9c6461b0b61c1e9571b08d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijc3YTc2YWY5ZWI5YzY0NjFiMGI2MWMxZTk1NzFiMDhkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/77a76af9eb9c6461b0b61c1e9571b08d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijc3YTc2YWY5ZWI5YzY0NjFiMGI2MWMxZTk1NzFiMDhkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/798LGIm-rafferty-vs-chamberlain.jpg" ,Jack Rafferty vs Mark Chamberlain (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1a1ee0efd5debe5049a0727a443b682b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFhMWVlMGVmZDVkZWJlNTA0OWEwNzI3YTQ0M2I2ODJiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1a1ee0efd5debe5049a0727a443b682b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFhMWVlMGVmZDVkZWJlNTA0OWEwNzI3YTQ0M2I2ODJiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/laligatv.png" ,LaLiga TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/pajip6maru1rlcoz1qizebitocof4aP7.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBhamlwNm1hcnUxcmxjb3oxcWl6ZWJpdG9jb2Y0YVA3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/pajip6maru1rlcoz1qizebitocof4aP7.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBhamlwNm1hcnUxcmxjb3oxcWl6ZWJpdG9jb2Y0YVA3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.com/bvZ56Ev.jpeg" ,LFC TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6fad2dc57f9f733c48f8c35ba8aeb119.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZmYWQyZGM1N2Y5ZjczM2M0OGY4YzM1YmE4YWViMTE5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6fad2dc57f9f733c48f8c35ba8aeb119.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZmYWQyZGM1N2Y5ZjczM2M0OGY4YzM1YmE4YWViMTE5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/marquee.png" ,Marquee Sports Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/92ff2c60b22c6f909fee98e91d64c112.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjkyZmYyYzYwYjIyYzZmOTA5ZmVlOThlOTFkNjRjMTEyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NiwiZXhwIjoxNzU0ODUwNzk2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/92ff2c60b22c6f909fee98e91d64c112.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjkyZmYyYzYwYjIyYzZmOTA5ZmVlOThlOTFkNjRjMTEyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" ,MeTV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/70be634f519290c56345415598086832.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjcwYmU2MzRmNTE5MjkwYzU2MzQ1NDE1NTk4MDg2ODMyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/70be634f519290c56345415598086832.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjcwYmU2MzRmNTE5MjkwYzU2MzQ1NDE1NTk4MDg2ODMyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" ,MeTV Toons
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/dc5f02d88b324940cecc73bae3192cad.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImRjNWYwMmQ4OGIzMjQ5NDBjZWNjNzNiYWUzMTkyY2FkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/dc5f02d88b324940cecc73bae3192cad.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImRjNWYwMmQ4OGIzMjQ5NDBjZWNjNzNiYWUzMTkyY2FkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/mlb.png" ,MLB Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/dd2b541cd3c0f5e547f9a7cdd4c2cb06.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImRkMmI1NDFjZDNjMGY1ZTU0N2Y5YTdjZGQ0YzJjYjA2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/dd2b541cd3c0f5e547f9a7cdd4c2cb06.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImRkMmI1NDFjZDNjMGY1ZTU0N2Y5YTdjZGQ0YzJjYjA2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/mtv.png" ,MTV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5d4af6aa99e9ee7912136ea5be3f962a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVkNGFmNmFhOTllOWVlNzkxMjEzNmVhNWJlM2Y5NjJhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5d4af6aa99e9ee7912136ea5be3f962a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVkNGFmNmFhOTllOWVlNzkxMjEzNmVhNWJlM2Y5NjJhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.com/tJ6jp2a.jpeg" ,MUTV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ebcdba09e8a64f24e07c4d9b67267753.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImViY2RiYTA5ZThhNjRmMjRlMDdjNGQ5YjY3MjY3NzUzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ebcdba09e8a64f24e07c4d9b67267753.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImViY2RiYTA5ZThhNjRmMjRlMDdjNGQ5YjY3MjY3NzUzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nba.png" ,NBA TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/T1ag4xopruwaFuThuwUS7lNI4HeTucot.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlQxYWc0eG9wcnV3YUZ1VGh1d1VTN2xOSTRIZVR1Y290IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/T1ag4xopruwaFuThuwUS7lNI4HeTucot.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlQxYWc0eG9wcnV3YUZ1VGh1d1VTN2xOSTRIZVR1Y290IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nbc.png" ,NBC
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/maqOnut62tRoHESac2r8ca9ay9b72hAw.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Im1hcU9udXQ2MnRSb0hFU2FjMnI4Y2E5YXk5YjcyaEF3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/maqOnut62tRoHESac2r8ca9ay9b72hAw.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Im1hcU9udXQ2MnRSb0hFU2FjMnI4Y2E5YXk5YjcyaEF3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" ,NBC GOLF
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1e679fd7988d232373821f9670a1310f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFlNjc5ZmQ3OTg4ZDIzMjM3MzgyMWY5NjcwYTEzMTBmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1e679fd7988d232373821f9670a1310f.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFlNjc5ZmQ3OTg4ZDIzMjM3MzgyMWY5NjcwYTEzMTBmIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1OSwiZXhwIjoxNzU0ODU0MTU5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nbcbayarea.png" ,NBC Sports Bay Area
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5411235d278f9abfce9db28c140374d5.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0MTEyMzVkMjc4ZjlhYmZjZTlkYjI4YzE0MDM3NGQ1IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5411235d278f9abfce9db28c140374d5.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0MTEyMzVkMjc4ZjlhYmZjZTlkYjI4YzE0MDM3NGQ1IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://media.nbcsportsboston.com/2023/04/Boston-Landmark.png?fit=3840%2C2160&quality=85&strip=all" ,NBC Sports Boston
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/DF01290A3852048FA5C6688724BCE1FA.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkRGMDEyOTBBMzg1MjA0OEZBNUM2Njg4NzI0QkNFMUZBIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/DF01290A3852048FA5C6688724BCE1FA.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkRGMDEyOTBBMzg1MjA0OEZBNUM2Njg4NzI0QkNFMUZBIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.com/Q9Uv160.jpeg" ,NBC Sports California
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/db42b951b60b85a60a3511ac0afcd382.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImRiNDJiOTUxYjYwYjg1YTYwYTM1MTFhYzBhZmNkMzgyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/db42b951b60b85a60a3511ac0afcd382.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImRiNDJiOTUxYjYwYjg1YTYwYTM1MTFhYzBhZmNkMzgyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://media.nbcsportsphiladelphia.com/2023/04/Philly-Landmark.png?fit=3840%2C2160&quality=85&strip=all" ,NBC Sports Philadelphia
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/b46c64f505d77d9c3ba37c2f3037f0f3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImI0NmM2NGY1MDVkNzdkOWMzYmEzN2MyZjMwMzdmMGYzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/b46c64f505d77d9c3ba37c2f3037f0f3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImI0NmM2NGY1MDVkNzdkOWMzYmEzN2MyZjMwMzdmMGYzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/nfl.png" ,NFL Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/prarEpRlcrI3On2nOs6upr5fujozOtRo.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByYXJFcFJsY3JJM09uMm5PczZ1cHI1ZnVqb3pPdFJvIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/prarEpRlcrI3On2nOs6upr5fujozOtRo.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByYXJFcFJsY3JJM09uMm5PczZ1cHI1ZnVqb3pPdFJvIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/NFLN_RZ_2022_16x9_Red_Delivery_Retouch.jpg" ,NFL Redzone
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/2d81f7d9aebd2ebbd49fc25cde38cc90.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjJkODFmN2Q5YWViZDJlYmJkNDlmYzI1Y2RlMzhjYzkwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/2d81f7d9aebd2ebbd49fc25cde38cc90.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjJkODFmN2Q5YWViZDJlYmJkNDlmYzI1Y2RlMzhjYzkwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" ,Nick Jr.
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/66f1d01f0ac16b38e4e9bc47b4b619c0.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjY2ZjFkMDFmMGFjMTZiMzhlNGU5YmM0N2I0YjYxOWMwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/66f1d01f0ac16b38e4e9bc47b4b619c0.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjY2ZjFkMDFmMGFjMTZiMzhlNGU5YmM0N2I0YjYxOWMwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" ,Nickelodeon
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e07a573f0a6ea861a83fc63aa1fdf2cb.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUwN2E1NzNmMGE2ZWE4NjFhODNmYzYzYWExZmRmMmNiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e07a573f0a6ea861a83fc63aa1fdf2cb.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUwN2E1NzNmMGE2ZWE4NjFhODNmYzYzYWExZmRmMmNiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" ,Nicktoons
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/eff5b3158442c734ab5e1ec6dc11960b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImVmZjViMzE1ODQ0MmM3MzRhYjVlMWVjNmRjMTE5NjBiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/eff5b3158442c734ab5e1ec6dc11960b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImVmZjViMzE1ODQ0MmM3MzRhYjVlMWVjNmRjMTE5NjBiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.postimg.cc/pXVYZPXV/Frame-1-6.png" ,Nova ((720p) Croatia)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/491dda94b522ee70390d728c0a147789.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjQ5MWRkYTk0YjUyMmVlNzAzOTBkNzI4YzBhMTQ3Nzg5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/491dda94b522ee70390d728c0a147789.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjQ5MWRkYTk0YjUyMmVlNzAzOTBkNzI4YzBhMTQ3Nzg5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/orfs.png" ,ORF SPORT+
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1250e745781e9041b7d98ba02e82edc8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjEyNTBlNzQ1NzgxZTkwNDFiN2Q5OGJhMDJlODJlZGM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5NywiZXhwIjoxNzU0ODUwNzk3fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1250e745781e9041b7d98ba02e82edc8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjEyNTBlNzQ1NzgxZTkwNDFiN2Q5OGJhMDJlODJlZGM4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier1.png" ,Premier Sports 1 IE
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/aE5dT9yH2uJ8gP1zWn7fK4oL6mV3cB.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFFNWRUOXlIMnVKOGdQMXpXbjdmSzRvTDZtVjNjQiIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTcsImV4cCI6MTc1NDg1MDc5N30.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/aE5dT9yH2uJ8gP1zWn7fK4oL6mV3cB.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFFNWRUOXlIMnVKOGdQMXpXbjdmSzRvTDZtVjNjQiIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNjAsImV4cCI6MTc1NDg1NDE2MH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/permier2.png" ,Premier Sports 2 IE
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/sY1bX6cA8rM3wQ7iN9jV2pE5hU0lGf.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InNZMWJYNmNBOHJNM3dRN2lOOWpWMnBFNWhVMGxHZiIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTgsImV4cCI6MTc1NDg1MDc5OH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/sY1bX6cA8rM3wQ7iN9jV2pE5hU0lGf.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InNZMWJYNmNBOHJNM3dRN2lOOWpWMnBFNWhVMGxHZiIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNjEsImV4cCI6MTc1NDg1NDE2MX0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/racer-network-us.png" ,Racer Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/26f5d9d5d9c41d0a73a94b793d59f158.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI2ZjVkOWQ1ZDljNDFkMGE3M2E5NGI3OTNkNTlmMTU4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/26f5d9d5d9c41d0a73a94b793d59f158.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjI2ZjVkOWQ1ZDljNDFkMGE3M2E5NGI3OTNkNTlmMTU4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/rally.png" ,Rally TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/fY2pQ8uB5zJ1wN6aL3sC7mX0vR9dHi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImZZMnBROHVCNXpKMXdONmFMM3NDN21YMHZSOWRIaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4Mzk5OTgsImV4cCI6MTc1NDg1MDc5OH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/fY2pQ8uB5zJ1wN6aL3sC7mX0vR9dHi.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImZZMnBROHVCNXpKMXdONmFMM3NDN21YMHZSOWRIaSIsInR5cGUiOiJwbGF5bGlzdF9hY2Nlc3MiLCJpYXQiOjE3NTQ4NDMzNjAsImV4cCI6MTc1NDg1NDE2MH0.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 1 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MCwiZXhwIjoxNzU0ODU0MTYwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 2 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImExYjJjM2Q0ZTVmNmE3YjhjOWQwZTFmMmEzYjRjNWQ2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImExYjJjM2Q0ZTVmNmE3YjhjOWQwZTFmMmEzYjRjNWQ2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 3 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdlOGY5YTBiMWMyZDNlNGY1YTZiN2M4ZDllMGYxYTJiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdlOGY5YTBiMWMyZDNlNGY1YTZiN2M4ZDllMGYxYTJiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 4 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImMzZDRlNWY2YTdiOGM5ZDBlMWYyYTNiNGM1ZDZlN2Y4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImMzZDRlNWY2YTdiOGM5ZDBlMWYyYTNiNGM1ZDZlN2Y4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 5 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjlhMGIxYzJkM2U0ZjVhNmI3YzhkOWUwZjFhMmIzYzRkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjlhMGIxYzJkM2U0ZjVhNmI3YzhkOWUwZjFhMmIzYzRkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 6 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/f1e2d3c4b5a698786543210fedcba987.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImYxZTJkM2M0YjVhNjk4Nzg2NTQzMjEwZmVkY2JhOTg3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/f1e2d3c4b5a698786543210fedcba987.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImYxZTJkM2M0YjVhNjk4Nzg2NTQzMjEwZmVkY2JhOTg3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 7 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVhNmI3YzhkOWUwZjFhMmIzYzRkNWU2ZjdhOGI5YzBkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVhNmI3YzhkOWUwZjFhMmIzYzRkNWU2ZjdhOGI5YzBkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 8 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" ,Sky Sport 9 NZ
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skybundesliga.png" ,Sky Sport Bundesliga
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/wramespicr0swivlb9hAserldOthofas.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndyYW1lc3BpY3Iwc3dpdmxiOWhBc2VybGRPdGhvZmFzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/wramespicr0swivlb9hAserldOthofas.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndyYW1lc3BpY3Iwc3dpdmxiOWhBc2VybGRPdGhvZmFzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygp.png" ,Sky Sport MotoGP
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1c6f53f565af34b3099d28adba983591.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFjNmY1M2Y1NjVhZjM0YjMwOTlkMjhhZGJhOTgzNTkxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1c6f53f565af34b3099d28adba983591.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFjNmY1M2Y1NjVhZjM0YjMwOTlkMjhhZGJhOTgzNTkxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportsaction.png" ,Sky Sports Action
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/wra2wlraTrewrAwohlsiCr0kUpHlswuc.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndyYTJ3bHJhVHJld3JBd29obHNpQ3Iwa1VwSGxzd3VjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/wra2wlraTrewrAwohlsiCr0kUpHlswuc.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IndyYTJ3bHJhVHJld3JBd29obHNpQ3Iwa1VwSGxzd3VjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skycricket.png" ,Sky Sports Cricket
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/j5ru6icHofROsespidec64w0s7lgo8ot.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo1cnU2aWNIb2ZST3Nlc3BpZGVjNjR3MHM3bGdvOG90IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/j5ru6icHofROsespidec64w0s7lgo8ot.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imo1cnU2aWNIb2ZST3Nlc3BpZGVjNjR3MHM3bGdvOG90IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyf1.png" ,Sky Sports F1
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/888520f36cd94c5da4c71fddc1a5fc9b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijg4ODUyMGYzNmNkOTRjNWRhNGM3MWZkZGMxYTVmYzliIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/888520f36cd94c5da4c71fddc1a5fc9b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijg4ODUyMGYzNmNkOTRjNWRhNGM3MWZkZGMxYTVmYzliIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyfootball.png" ,Sky Sports Football
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/zuw3aYlboraPaStUP4o5ropHlbrospev.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Inp1dzNhWWxib3JhUGFTdFVQNG81cm9wSGxicm9zcGV2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/zuw3aYlboraPaStUP4o5ropHlbrospev.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Inp1dzNhWWxib3JhUGFTdFVQNG81cm9wSGxicm9zcGV2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skygolf.png" ,Sky Sports Golf
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/juDiYAyaWljAtH55usw2sWogINI49kIY.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imp1RGlZQXlhV2xqQXRINTV1c3cyc1dvZ0lOSTQ5a0lZIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/juDiYAyaWljAtH55usw2sWogINI49kIY.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Imp1RGlZQXlhV2xqQXRINTV1c3cyc1dvZ0lOSTQ5a0lZIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skymainevent.png" ,Sky Sports Main Event
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/4reStAcaHuraStIc3o7rOdRAprEy2glB.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjRyZVN0QWNhSHVyYVN0SWMzbzdyT2RSQXByRXkyZ2xCIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/4reStAcaHuraStIc3o7rOdRAprEy2glB.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjRyZVN0QWNhSHVyYVN0SWMzbzdyT2RSQXByRXkyZ2xCIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skymix.png" ,Sky Sports Mix
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/phAjl4we7iw0agitOpro8Rlcrotrufre.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBoQWpsNHdlN2l3MGFnaXRPcHJvOFJsY3JvdHJ1ZnJlIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/phAjl4we7iw0agitOpro8Rlcrotrufre.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBoQWpsNHdlN2l3MGFnaXRPcHJvOFJsY3JvdHJ1ZnJlIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnews.png" ,Sky Sports News
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ZiProtriRlspiriBrI2oProjohAfretA.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlppUHJvdHJpUmxzcGlyaUJySTJvUHJvam9oQWZyZXRBIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ZiProtriRlspiriBrI2oProjohAfretA.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlppUHJvdHJpUmxzcGlyaUJySTJvUHJvam9oQWZyZXRBIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyleague.png" ,Sky Sports Premier League
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/swapr5jlpHidrlfR65ofRi8a0itHI6oc.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InN3YXByNWpscEhpZHJsZlI2NW9mUmk4YTBpdEhJNm9jIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/swapr5jlpHidrlfR65ofRi8a0itHI6oc.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InN3YXByNWpscEhpZHJsZlI2NW9mUmk4YTBpdEhJNm9jIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyracing.png" ,Sky Sports Racing
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/x5Dodrl6Ro21RUprudEQAFRUTEfLPhec.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ing1RG9kcmw2Um8yMVJVcHJ1ZEVRQUZSVVRFZkxQaGVjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/x5Dodrl6Ro21RUprudEQAFRUTEfLPhec.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ing1RG9kcmw2Um8yMVJVcHJ1ZEVRQUZSVVRFZkxQaGVjIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skytennis.png" ,Sky Sports Tennis
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/pA5reZusPAvispo16hUb2e5pahlthLB2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBBNXJlWnVzUEF2aXNwbzE2aFViMmU1cGFobHRoTEIyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/pA5reZusPAvispo16hUb2e5pahlthLB2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InBBNXJlWnVzUEF2aXNwbzE2aFViMmU1cGFobHRoTEIyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skyplus.png" ,Sky Sports+
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/kl11IkOsWATR8duxiWrOyiprERl2hLx4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImtsMTFJa09zV0FUUjhkdXhpV3JPeWlwckVSbDJoTHg0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OCwiZXhwIjoxNzU0ODUwNzk4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/kl11IkOsWATR8duxiWrOyiprERl2hLx4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImtsMTFJa09zV0FUUjhkdXhpV3JPeWlwckVSbDJoTHg0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MSwiZXhwIjoxNzU0ODU0MTYxfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://cdn.nba.com/teams/uploads/sites/1610612747/2023/10/2324_lal_product_ssn_generic_article_1130x635.jpg" ,Spectrum Sportsnet Lakers
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/10e9277a0784991c8cef63061b053d40.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjEwZTkyNzdhMDc4NDk5MWM4Y2VmNjMwNjFiMDUzZDQwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/10e9277a0784991c8cef63061b053d40.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjEwZTkyNzdhMDc4NDk5MWM4Y2VmNjMwNjFiMDUzZDQwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://tips.gg/match/sunderland-vs-rayo-vallecano-10-08-2025-04-30/poster/" ,Sunderland vs Rayo Vallecano (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1ad9864ebf4e3009f22961659ecb0950.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFhZDk4NjRlYmY0ZTMwMDlmMjI5NjE2NTllY2IwOTUwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/1ad9864ebf4e3009f22961659ecb0950.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjFhZDk4NjRlYmY0ZTMwMDlmMjI5NjE2NTllY2IwOTUwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tbs.png" ,TBS
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/prLbr6tHLvozlcehLbrIb5crU2awoklC.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByTGJyNnRITHZvemxjZWhMYnJJYjVjclUyYXdva2xDIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/prLbr6tHLvozlcehLbrIb5crU2awoklC.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByTGJyNnRITHZvemxjZWhMYnJJYjVjclUyYXdva2xDIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" ,Teen Nick
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c7af837d2ffea8c75175d994e4d6a2aa.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImM3YWY4MzdkMmZmZWE4Yzc1MTc1ZDk5NGU0ZDZhMmFhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c7af837d2ffea8c75175d994e4d6a2aa.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImM3YWY4MzdkMmZmZWE4Yzc1MTc1ZDk5NGU0ZDZhMmFhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tennischannel.png" ,Tennis Channel
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/671644cddc7ee3158d3291c88ec8a1a1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjY3MTY0NGNkZGM3ZWUzMTU4ZDMyOTFjODhlYzhhMWExIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/671644cddc7ee3158d3291c88ec8a1a1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjY3MTY0NGNkZGM3ZWUzMTU4ZDMyOTFjODhlYzhhMWExIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tnt.png" ,TNT
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/QibeMAS7LSWitHlwOdU4ozablj8ZunO4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlFpYmVNQVM3TFNXaXRIbHdPZFU0b3phYmxqOFp1bk80IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/QibeMAS7LSWitHlwOdU4ozablj8ZunO4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlFpYmVNQVM3TFNXaXRIbHdPZFU0b3phYmxqOFp1bk80IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" ,TNT Sports 1
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/FrofUdRljoCLdruGUdR295IfisTlsW1w.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkZyb2ZVZFJsam9DTGRydUdVZFIyOTVJZmlzVGxzVzF3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/FrofUdRljoCLdruGUdR295IfisTlsW1w.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IkZyb2ZVZFJsam9DTGRydUdVZFIyOTVJZmlzVGxzVzF3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" ,TNT Sports 2
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c5phutHUkothlwRudRO8rosaS3B64ini.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImM1cGh1dEhVa290aGx3UnVkUk84cm9zYVMzQjY0aW5pIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c5phutHUkothlwRudRO8rosaS3B64ini.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImM1cGh1dEhVa290aGx3UnVkUk84cm9zYVMzQjY0aW5pIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" ,TNT Sports 3
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/SodrItO5WeQeFraDRoQa900eSw68I9LG.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlNvZHJJdE81V2VRZUZyYURSb1FhOTAwZVN3NjhJOUxHIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/SodrItO5WeQeFraDRoQa900eSw68I9LG.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlNvZHJJdE81V2VRZUZyYURSb1FhOTAwZVN3NjhJOUxHIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tntsport.png" ,TNT Sports 4
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8esiM7BRatIQ3cAdaxes34tesIbrOpOp.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijhlc2lNN0JSYXRJUTNjQWRheGVzMzR0ZXNJYnJPcE9wIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8esiM7BRatIQ3cAdaxes34tesIbrOpOp.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6Ijhlc2lNN0JSYXRJUTNjQWRheGVzMzR0ZXNJYnJPcE9wIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/trutv.png" ,TruTV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/63809a66e263a940dfc7bc4f429907d6.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjYzODA5YTY2ZTI2M2E5NDBkZmM3YmM0ZjQyOTkwN2Q2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/63809a66e263a940dfc7bc4f429907d6.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjYzODA5YTY2ZTI2M2E5NDBkZmM3YmM0ZjQyOTkwN2Q2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" ,TSN 1
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/4a1b2c3d5e6f7890a1b2c3d4e5f67890.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjRhMWIyYzNkNWU2Zjc4OTBhMWIyYzNkNGU1ZjY3ODkwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5OSwiZXhwIjoxNzU0ODUwNzk5fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/4a1b2c3d5e6f7890a1b2c3d4e5f67890.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjRhMWIyYzNkNWU2Zjc4OTBhMWIyYzNkNGU1ZjY3ODkwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" ,TSN 2
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8b9c0d1e2f3a4b5c6d7e8f90a1b2c3d4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhiOWMwZDFlMmYzYTRiNWM2ZDdlOGY5MGExYjJjM2Q0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8b9c0d1e2f3a4b5c6d7e8f90a1b2c3d4.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhiOWMwZDFlMmYzYTRiNWM2ZDdlOGY5MGExYjJjM2Q0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" ,TSN 3
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e5f6a7b8c9d0e1f2a3b4c5d6e7f890a1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImU1ZjZhN2I4YzlkMGUxZjJhM2I0YzVkNmU3Zjg5MGExIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e5f6a7b8c9d0e1f2a3b4c5d6e7f890a1.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImU1ZjZhN2I4YzlkMGUxZjJhM2I0YzVkNmU3Zjg5MGExIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" ,TSN 4
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImMzZDRlNWY2YTdiOGM5ZDBlMWYyYTNiNGM1ZDZlN2Y4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImMzZDRlNWY2YTdiOGM5ZDBlMWYyYTNiNGM1ZDZlN2Y4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MiwiZXhwIjoxNzU0ODU0MTYyfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tsn.png" ,TSN 5
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhhMGIxYzJkM2U0ZjVhNmI3YzhkOWUwZjFhMmIzYzRkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/8a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhhMGIxYzJkM2U0ZjVhNmI3YzhkOWUwZjFhMmIzYzRkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tudn.png" ,TUDN
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/397e9c05f4ec89df258ad5d197b5ec94.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM5N2U5YzA1ZjRlYzg5ZGYyNThhZDVkMTk3YjVlYzk0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/397e9c05f4ec89df258ad5d197b5ec94.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjM5N2U5YzA1ZjRlYzg5ZGYyNThhZDVkMTk3YjVlYzk0IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/tyc.png" ,TYC Sports Internacional
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/cA2AcLspucEmI750LcLguxAFR9jU7Rln.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImNBMkFjTHNwdWNFbUk3NTBMY0xndXhBRlI5alU3UmxuIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/cA2AcLspucEmI750LcLguxAFR9jU7Rln.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImNBMkFjTHNwdWNFbUk3NTBMY0xndXhBRlI5alU3UmxuIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/ufcfightpass.png" ,UFC Fight Pass TV
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/SpOpusPoxiGihEZIYIthiKezorLy0wrO.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlNwT3B1c1BveGlHaWhFWklZSXRoaUtlem9yTHkwd3JPIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/SpOpusPoxiGihEZIYIthiKezorLy0wrO.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlNwT3B1c1BveGlHaWhFWklZSXRoaUtlem9yTHkwd3JPIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/unimas-us.png" ,Unimas
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/0055b626ddebadc2e135ffcfe38ed441.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjAwNTViNjI2ZGRlYmFkYzJlMTM1ZmZjZmUzOGVkNDQxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/0055b626ddebadc2e135ffcfe38ed441.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjAwNTViNjI2ZGRlYmFkYzJlMTM1ZmZjZmUzOGVkNDQxIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/univision-us.png" ,Univision
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/a652418e3b26f16de0c9e090b5cd3ec2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImE2NTI0MThlM2IyNmYxNmRlMGM5ZTA5MGI1Y2QzZWMyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/a652418e3b26f16de0c9e090b5cd3ec2.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImE2NTI0MThlM2IyNmYxNmRlMGM5ZTA5MGI1Y2QzZWMyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/usanetwork.png" ,USA Network
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/prObIniBoc7ltizEGEvUSpLstaClmlbr.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByT2JJbmlCb2M3bHRpekVHRXZVU3BMc3RhQ2xtbGJyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/prObIniBoc7ltizEGEvUSpLstaClmlbr.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByT2JJbmlCb2M3bHRpekVHRXZVU3BMc3RhQ2xtbGJyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/vice.png" ,Vice
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/d32d1e89796bc0ee8bf1a216bb3fa2ae.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQzMmQxZTg5Nzk2YmMwZWU4YmYxYTIxNmJiM2ZhMmFlIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/d32d1e89796bc0ee8bf1a216bb3fa2ae.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImQzMmQxZTg5Nzk2YmMwZWU4YmYxYTIxNmJiM2ZhMmFlIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2MywiZXhwIjoxNzU0ODU0MTYzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://i.imgur.gg/qyX9CFv-image.png" ,Villarreal vs. Real Oviedo (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/414c06c502834418cc61d0589fc3e4ba.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjQxNGMwNmM1MDI4MzQ0MThjYzYxZDA1ODlmYzNlNGJhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/414c06c502834418cc61d0589fc3e4ba.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjQxNGMwNmM1MDI4MzQ0MThjYzYxZDA1ODlmYzNlNGJhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://artwork.espncdn.com/events/100189790/16x9/large_20250725015021.jpg" ,West Indies vs. Pakistan (2nd ODI) (Live Stream)
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/b46e24a6f79f87d96460f12320d05d83.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImI0NmUyNGE2Zjc5Zjg3ZDk2NDYwZjEyMzIwZDA1ZDgzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDgzOTk5MywiZXhwIjoxNzU0ODUwNzkzfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/b46e24a6f79f87d96460f12320d05d83.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImI0NmUyNGE2Zjc5Zjg3ZDk2NDYwZjEyMzIwZDA1ZDgzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM1NiwiZXhwIjoxNzU0ODU0MTU2fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tims247" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/willow.png" ,Willow Cricket
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/f7dc5cb51217cf8eda81bc5a822a1548.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImY3ZGM1Y2I1MTIxN2NmOGVkYTgxYmM1YTgyMmExNTQ4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MDAwMCwiZXhwIjoxNzU0ODUwODAwfQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/f7dc5cb51217cf8eda81bc5a822a1548.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImY3ZGM1Y2I1MTIxN2NmOGVkYTgxYmM1YTgyMmExNTQ4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NDg0MzM2NCwiZXhwIjoxNzU0ODU0MTY0fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
 
 #EXTGRP:TubiTV
 #EXTINF:-1  tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/pQpb4BualR6eug==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjdAAQ==" group-title="TubiTV",A&E Crime 360
@@ -13533,3 +13618,25 @@ https://ott.udptv.xyz/stream/udptv/vevocountry/master.m3u8?u=cocked&p=dd0abb5272
 https://ott.udptv.xyz/stream/udptv/vevohiphop/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Warner TV Serie DE" tvg-id="skyde/warnertvserie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="UDPTV Live Streams",Warner TV Serie DE
 https://ott.udptv.xyz/stream/udptv/vevorb/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTGRP:WNBA
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Hd
+https://tvpass.org/live/WNBA03/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Atlanta Dream @ Phoenix Mercury (08/10 6:00 Pm Et) Sd
+https://tvpass.org/live/WNBA03/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Hd
+https://tvpass.org/live/WNBA05/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Sd
+https://tvpass.org/live/WNBA05/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Hd
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Minnesota Lynx @ New York Liberty (08/10 12:30 Pm Et) Sd
+https://tvpass.org/live/WNBA01/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Hd
+https://tvpass.org/live/WNBA04/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Seattle Storm @ Los Angeles Sparks (08/10 8:00 Pm Et) Sd
+https://tvpass.org/live/WNBA04/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Hd
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Washington Mystics @ Dallas Wings (08/10 4:00 Pm Et) Sd
+https://tvpass.org/live/WNBA02/sd
