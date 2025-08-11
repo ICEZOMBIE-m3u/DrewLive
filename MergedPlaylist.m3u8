@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
-# Last forced update: 2025-08-11T17:40:37.436866Z
+# Last forced update: 2025-08-11T17:57:21.341457Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -2221,86 +2221,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 #EXTINF:-1  tvg-name="18+ (Player-20)" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX" radio="false",18+ (Player-20)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium520%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
-#EXTGRP:Drew247TV
-#EXTINF:-1  tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true" group-title="Drew247TV",ABC (WABC)
-https://fbcdntv247.cfd/memfs/196a3d53-fe48-484c-b267-f3f326f8c9e7_output_0.m3u8
-#EXTINF:-1  tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" group-title="Drew247TV",AMC
-https://fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3u8
-#EXTINF:-1  tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" group-title="Drew247TV",Animal Planet
-https://ft.fbcdntv247.cfd/memfs/c1b75c6c-48df-46c5-a6e0-8a2787fb0f65.m3u8
-#EXTINF:-1  tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Drew247TV",Big Ten Network
-https://fbcdntv247.cfd/memfs/a9fac2ae-4feb-4765-aded-46b61277a09b_output_0.m3u8
-#EXTINF:-1  tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" group-title="Drew247TV",Bravo
-https://ft.fbcdntv247.cfd/memfs/3427392c-1304-44d6-a80a-680111fff048.m3u8
-#EXTINF:-1  tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="Drew247TV",Cartoon Network
-https://fbcdntv247.cfd/memfs/30919575-c426-404b-a063-395b706fa39c_output_0.m3u8
-#EXTINF:-1  tvg-id="CBS.(KKTV).Colorado.Springs,.CO.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS2.png" group-title="Drew247TV",CBS (KKTV)
-https://tinyurl.com/cbskktv24
-#EXTINF:-1  tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Drew247TV",CBS (WCBS)
-https://ft.fbcdntv247.cfd/memfs/f52160c3-ffe2-4eea-9315-b47c57c06dad.m3u8
-#EXTINF:-1  tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" group-title="Drew247TV",CBS Sports Network
-https://fbcdntv247.cfd/memfs/9a60f692-4ae9-483b-9791-411f7530754d_output_0.m3u8
-#EXTINF:-1  tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Drew247TV",Cinemax
-https://ft.fbcdntv247.cfd/memfs/00fff1fa-6c4f-4459-af8e-cf05448c217c.m3u8
-#EXTINF:-1  tvg-id="CNBC.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" group-title="Drew247TV",CNBC
-https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794.m3u8
-#EXTINF:-1  tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Drew247TV",CNN
-https://fbcdntv247.cfd/memfs/24e6e9dd-7a3b-46e5-bddd-e21ae6152898.m3u8
-#EXTINF:-1  tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" group-title="Drew247TV",Comedy Central
-https://fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4.m3u8
-#EXTINF:-1  tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" group-title="Drew247TV",Discovery
-https://ft.fbcdntv247.cfd/memfs/17dec456-cbcb-4836-b268-dd2a40cb4b87.m3u8
-#EXTINF:-1  tvg-id="ESPN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" group-title="Drew247TV",ESPN
-https://fbcdntv247.cfd/memfs/4e731d12-852c-4daa-b950-aa97b5357aba_output_0.m3u8
-#EXTINF:-1  tvg-id="ESPN2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="Drew247TV",ESPN 2
-https://fbcdntv247.cfd/memfs/c8d2e86a-43fc-4b22-b084-3008e8d1063c_output_0.m3u8
-#EXTINF:-1  tvg-id="ESPN.News.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="Drew247TV",ESPN News
-https://fbcdntv247.cfd/memfs/56cc18c4-1e9d-4af0-b1a2-76fc8fc86333.m3u8
-#EXTINF:-1  tvg-id="ESPN.U.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="Drew247TV",ESPN U
-https://ft.fbcdntv247.cfd/memfs/be6d8aa9-b18f-4004-9f5a-e587a49c3bc4.m3u8
-#EXTINF:-1  tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" group-title="Drew247TV",FOX (WNYW)
-https://fbcdntv247.cfd/memfs/868cfc8b-f31c-40b5-bc19-bb2f8434c869.m3u8
-#EXTINF:-1  tvg-id="Fox.News.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="Drew247TV",FOX News
-https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81.m3u8
-#EXTINF:-1  tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Drew247TV",FOX Sports 1
-https://fbcdntv247.cfd/memfs/f140c459-525b-4cd6-b3ad-92d274d78903.m3u8
-#EXTINF:-1  tvg-id="Freeform.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" group-title="Drew247TV",Freeform
-https://fbcdntv247.cfd/memfs/b42b40dc-d18f-4728-8556-f778ddeaeca8.m3u8
-#EXTINF:-1  tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="Drew247TV",Hallmark Movies & Mystery
-https://ft.fbcdntv247.cfd/memfs/4b77c33b-6f66-4f65-881f-56def984b98f.m3u8
-#EXTINF:-1  tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="Drew247TV",Hallmark Network
-https://fbcdntv247.cfd/memfs/453ef90c-c384-40bb-9c86-74b69a4b28b3.m3u8
-#EXTINF:-1  tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="Drew247TV",HBO
-https://ft.fbcdntv247.cfd/memfs/2560c665-052e-4646-aaab-3ad367a7bc8e.m3u8
-#EXTINF:-1  tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" group-title="Drew247TV",History Channel
-https://fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a.m3u8
-#EXTINF:-1  tvg-id="MLB Network USA|MLB.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="Drew247TV",MLB Network
-https://ft.fbcdntv247.cfd/memfs/38a596d0-649a-459b-af25-4dd8629f6f0d.m3u8
-#EXTINF:-1  tvg-id="MSNBC.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-hz-us.png?raw=true" group-title="Drew247TV",MSNBC
-https://fbcdntv247.cfd/memfs/020da831-3bb1-4609-8f59-7aa72392ab15.m3u8
-#EXTINF:-1  tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" group-title="Drew247TV",MTV
-https://ft.fbcdntv247.cfd/memfs/35f9fae8-6edc-4a88-ab78-65ac05b2b4e1.m3u8
-#EXTINF:-1  tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Drew247TV",NBA TV
-https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296.m3u8
-#EXTINF:-1  tvg-id="NFL.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Drew247TV",NFL Network
-https://fbcdntv247.cfd/memfs/04f7d00e-0f79-4956-8296-985ac70a84be.m3u8
-#EXTINF:-1  tvg-id="NHL.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Drew247TV",NHL Network
-https://ft.fbcdntv247.cfd/memfs/f3842e8c-b2e7-443a-82b8-31ba28ea73d4.m3u8
-#EXTINF:-1  tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" group-title="Drew247TV",Nickelodeon
-https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536.m3u8
-#EXTINF:-1  tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="Drew247TV",Oxygen True Crime
-https://fbcdntv247.cfd/memfs/bb04ce33-6834-4d78-b55c-e8a6d010edd3.m3u8
-#EXTINF:-1  tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-plus-with-showtime-us.png?raw=true" group-title="Drew247TV",Showtime
-https://fbcdntv247.cfd/memfs/ee470167-b523-4775-93fe-735ab59e7285.m3u8
-#EXTINF:-1  tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="Drew247TV",TBS
-https://fbcdntv247.cfd/memfs/df2ca648-51bd-41ad-a153-a33f0faf0c3f.m3u8
-#EXTINF:-1  tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="Drew247TV",TNT
-https://ft.fbcdntv247.cfd/memfs/b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c.m3u8
-#EXTINF:-1  tvg-id="TheTravelChannel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" group-title="Drew247TV",Travel Channel
-https://fbcdntv247.cfd/memfs/c20312cb-10ba-47eb-9441-91d03ef3ef19.m3u8
-#EXTINF:-1  tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH12.png" group-title="Drew247TV",VH1
-https://ft.fbcdntv247.cfd/memfs/c1cbc55e-0eb4-4b83-8b92-3e36b6706d94.m3u8
-
 #EXTGRP:DrewFX - Classic Rock
 #EXTINF:-1  tvg-name="Classic Rock 103.3" tvg-id="Radio.105.Dummy.us" tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2733/files/2021/04/wglx-logo-glow-1024x683.png" group-title="DrewFX - Classic Rock" radio="true",Classic Rock 103.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WGLXFMAAC.aac
@@ -3846,6 +3766,8 @@ https://fl3.moveonjoy.com/C-SPAN/index.m3u8
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="CBS" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",CBS
 https://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1  tvg-id="CBS.(KKTV).Colorado.Springs,.CO.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS2.png" group-title="MoveOnJoy",CBS (KKTV)
+https://tinyurl.com/cbskktv24
 #EXTINF:-1  tvg-name="CBS SPORTS NETWORK" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="MoveOnJoy" radio="false",CBS SPORTS NETWORK
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1  tvg-name="CINEMAX EAST" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MoveOnJoy" radio="false",CINEMAX EAST
